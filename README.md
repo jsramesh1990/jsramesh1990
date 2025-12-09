@@ -61,8 +61,10 @@ If you're working on hardware products, sensor systems, or embedded solutions â€
 
 ##  Technical Skills
 
-**Programming & Scripting:**  
-C, C++, Python, OOP  
+###   Programming & Scripting
+- **Languages:** C, C++, Python  
+- **Scripting:** Bash / Shell Scripts, Makefile, Markdown (MD)
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Embedded C Programming
 
 **Embedded Systems & Platforms:**  
 Yocto BSP, Android BSP, Linux Kernel, U-Boot, RootFS, Board Bring-up, Device Tree  
