@@ -1,16 +1,13 @@
 <img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
-# Hi there, I'm Sebastian Ramesh 👋
-
-I'm an **Embedded Software Developer** passionate about building efficient and reliable software for hardware systems. I specialize in working with microcontrollers, device drivers, sensor interfacing, and low-level C/C++ programming.
-Hi there, I'm Sebastian Ramesh 👋
-Embedded Software Developer | IoT Learner | Open to Freelance Projects
+#  Hi there, I'm Sebastian Ramesh 
+** Embedded Software Developer | Open to Freelance Projects **
 
 I'm an Embedded Software Developer passionate about building efficient, reliable, and scalable software for hardware systems. I specialize in microcontrollers, device drivers, sensor interfacing, embedded C/C++, and low-level system programming.
 
 I'm always eager to learn the latest technologies, improve my engineering strategies, and explore modern embedded systems and IoT architectures. I love collaborating with people who share a passion for technology, innovation, and continuous learning.
 
-🔍 What I'm Looking For
+** What I'm Looking For **
 
 🚀 Freelance Embedded/IoT Projects
 
@@ -26,7 +23,7 @@ I'm always eager to learn the latest technologies, improve my engineering strate
 
 🌱 Believer in lifelong learning and exploring deeper embedded concepts
 
-⚙️ What I Work With
+What I Work With
 
 Microcontrollers: ARM, PIC, AVR, 8051, ESP32
 
@@ -36,7 +33,7 @@ Embedded Systems: FreeRTOS, Yocto, Embedded Linux
 
 Tools & Skills: Debugging, optimization, hardware bring-up, C/C++, Git
 
-🌐 Open to Collaborations
+Open to Collaborations
 
 I love connecting with tech-minded people to build smart, real-world systems. If you’re working on embedded innovation, IoT products, or experimental hardware projects — let’s collaborate!
 ---
@@ -44,6 +41,7 @@ I love connecting with tech-minded people to build smart, real-world systems. If
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Ramesh-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/sebastian-ramesh-b84911327)
 
+Email: js.ramesh1990@gmail.com
 ---
 
 ## 🛠 Technical Skills
@@ -126,11 +124,6 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ---
 
-## 📫 How to reach me
-- LinkedIn: [linkedin.com/in/sebastian-ramesh-b84911327](https://linkedin.com/in/sebastian-ramesh-b84911327)
-- Email: **js.ramesh1990@gmail.com**
-
----
 
 
 
