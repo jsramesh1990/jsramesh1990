@@ -1,7 +1,7 @@
 <img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
 #  Hi there, I'm Sebastian Ramesh 
-## **Embedded Software Developer | Open to Freelance Projects**
+##   Embedded Software Developer | Open to Freelance Projects
 
 I'm an **Embedded Software Developer** passionate about building **efficient, reliable, and scalable software for hardware systems**. I specialize in **microcontrollers, device drivers, sensor interfacing, embedded C/C++, RTOS, and low-level system programming**.
 
@@ -9,7 +9,7 @@ I am constantly exploring **modern embedded strategies, IoT architectures, and a
 
 ---
 
-## ** What I'm Looking For**
+##   What I'm Looking For
 
 *   **Freelance Embedded / IoT Projects**
     **Technical Collaboration & Open-Source Contributions**
@@ -17,7 +17,7 @@ I am constantly exploring **modern embedded strategies, IoT architectures, and a
 
 ---
 
-## **   My Mindset**
+##   My Mindset
 
 *    A hard-working engineer who pushes boundaries and delivers results
 *    Focused on improving system-level thinking, design strategy, and technical depth
@@ -25,34 +25,34 @@ I am constantly exploring **modern embedded strategies, IoT architectures, and a
 
 ---
 
-## **   What I Work With**
+##   What I Work With
 
-### **Microcontrollers**
+###   Microcontrollers
 
 ARM | PIC | AVR | 8051 | ESP32
 
-### **Drivers & Firmware**
+###   Drivers & Firmware
 
 I2C | SPI | UART | GPIO | ADC | Timers
 
-### **Embedded Systems**
+###   Embedded Systems
 
 FreeRTOS | Yocto | Embedded Linux
 
-### **Tools & Skills**
+###   Tools & Skills
 
 Debugging | Optimization | Hardware Bring-Up | C/C++ | Git
 
 ---
 
-## ** Open to Collaborations**
+##   Open to Collaborations
 
 I enjoy connecting with engineers, innovators, and creators to build **smart, real-world embedded and IoT systems**.
 If you're working on hardware products, sensor systems, or embedded solutions — **let’s collaborate!**
 
 ---
 
-## **🔗 Connect with Me**
+##   🔗 Connect with Me
 
 * **LinkedIn:** linkedin.com/in/sebastian-ramesh-b84911327
 * **Email:** **[js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com)**
@@ -133,7 +133,7 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 ---
 
 
-## **   Currently Learning (Latest Embedded Technologies)**
+##   Currently Learning (Latest Embedded Technologies)
 
 * **Real-Time Operating Systems (RTOS) Optimization & Multicore Scheduling**
 * **Edge AI on Microcontrollers (TinyML, on-device inference)**
