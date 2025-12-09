@@ -2,6 +2,7 @@
 
 #  Hi there, I'm Sebastian Ramesh 
 ** Embedded Software Developer | Open to Freelance Projects **
+Embedded Software Developer | Open to Freelance Projects
 
 I'm an Embedded Software Developer passionate about building efficient, reliable, and scalable software for hardware systems. I specialize in microcontrollers, device drivers, sensor interfacing, embedded C/C++, and low-level system programming.
 
