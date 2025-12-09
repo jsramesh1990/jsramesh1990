@@ -1,51 +1,65 @@
 <img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
 #  Hi there, I'm Sebastian Ramesh 
-** Embedded Software Developer | Open to Freelance Projects **
-Embedded Software Developer | Open to Freelance Projects
+## **Embedded Software Developer | Open to Freelance Projects**
 
-I'm an Embedded Software Developer passionate about building efficient, reliable, and scalable software for hardware systems. I specialize in microcontrollers, device drivers, sensor interfacing, embedded C/C++, and low-level system programming.
+I'm an **Embedded Software Developer** passionate about building **efficient, reliable, and scalable software for hardware systems**. I specialize in **microcontrollers, device drivers, sensor interfacing, embedded C/C++, RTOS, and low-level system programming**.
 
-I'm always eager to learn the latest technologies, improve my engineering strategies, and explore modern embedded systems and IoT architectures. I love collaborating with people who share a passion for technology, innovation, and continuous learning.
+I am constantly exploring **modern embedded strategies, IoT architectures, and advanced system design patterns**. I enjoy collaborating with people who value innovation, strong technical foundations, and continuous learning.
 
-** What I'm Looking For **
-
-🚀 Freelance Embedded/IoT Projects
-
-🤝 Technical Collaboration & Open-Source Contributions
-
-📘 Learning opportunities in IoT, RTOS, Linux kernel, and modern embedded logic
-
-💡 My Mindset
-
-🔥 Hard-working and always ready to push boundaries
-
-📈 Continually improving skills, system design thinking, and technology strategy
-
-🌱 Believer in lifelong learning and exploring deeper embedded concepts
-
-What I Work With
-
-Microcontrollers: ARM, PIC, AVR, 8051, ESP32
-
-Drivers & Firmware: I2C, SPI, UART, GPIO, ADC, Timers
-
-Embedded Systems: FreeRTOS, Yocto, Embedded Linux
-
-Tools & Skills: Debugging, optimization, hardware bring-up, C/C++, Git
-
-Open to Collaborations
-
-I love connecting with tech-minded people to build smart, real-world systems. If you’re working on embedded innovation, IoT products, or experimental hardware projects — let’s collaborate!
 ---
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian%20Ramesh-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/sebastian-ramesh-b84911327)
+## ** What I'm Looking For**
 
-Email: js.ramesh1990@gmail.com
+*   **Freelance Embedded / IoT Projects**
+    **Technical Collaboration & Open-Source Contributions**
+*   **Opportunities to learn and grow in IoT, RTOS, Linux Kernel, and next-gen embedded logic**
+
 ---
 
-## 🛠 Technical Skills
+## **   My Mindset**
+
+*    A hard-working engineer who pushes boundaries and delivers results
+*    Focused on improving system-level thinking, design strategy, and technical depth
+*    Lifelong learner exploring deeper layers of embedded systems and technology
+
+---
+
+## **   What I Work With**
+
+### **Microcontrollers**
+
+ARM | PIC | AVR | 8051 | ESP32
+
+### **Drivers & Firmware**
+
+I2C | SPI | UART | GPIO | ADC | Timers
+
+### **Embedded Systems**
+
+FreeRTOS | Yocto | Embedded Linux
+
+### **Tools & Skills**
+
+Debugging | Optimization | Hardware Bring-Up | C/C++ | Git
+
+---
+
+## ** Open to Collaborations**
+
+I enjoy connecting with engineers, innovators, and creators to build **smart, real-world embedded and IoT systems**.
+If you're working on hardware products, sensor systems, or embedded solutions — **let’s collaborate!**
+
+---
+
+## **🔗 Connect with Me**
+
+* **LinkedIn:** linkedin.com/in/sebastian-ramesh-b84911327
+* **Email:** **[js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com)**
+
+---
+
+##  Technical Skills
 
 **Programming & Scripting:**  
 C, C++, Python, OOP  
@@ -68,7 +82,7 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ---
 
-## 📌 Key Projects & Achievements
+##  Key Projects & Achievements
 
 ### **1. Camera Systems on Qualcomm RB5 & IFB Boards – Mistral Solutions**
 - Multi-level **sensor-user communication** and HD video streaming.  
@@ -109,7 +123,7 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ---
 
-## ✅ Achievements & Highlights
+##  Achievements & Highlights
 - Expert in **camera systems, real-time image/video processing, and embedded Linux kernel optimization**.  
 - Successfully completed **multiple board bring-ups and BSP developments** on ARM and Qualcomm platforms.  
 - Developed **high-performance, multithreaded embedded applications** with robust communication protocols.  
@@ -118,10 +132,14 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ---
 
-## 🚀 Currently Learning
-- Advanced Embedded Linux
-- Real-Time Operating Systems (RTOS) Optimization
-- Communication Protocol Stacks & OSI Layer Implementations
+
+## **   Currently Learning (Latest Embedded Technologies)**
+
+* **Real-Time Operating Systems (RTOS) Optimization & Multicore Scheduling**
+* **Edge AI on Microcontrollers (TinyML, on-device inference)**
+* **Secure Boot, Trusted Firmware, and Embedded Cybersecurity**
+* **Low-Power IoT Architectures (BLE Mesh, LoRaWAN, Thread, Matter)**
+* **Embedded Containerization & Virtualization (lightweight containers for IoT gateways)**
 
 ---
 
