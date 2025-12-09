@@ -132,17 +132,26 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ---
 
+##   Currently Learning
 
-##   Currently Learning (Latest Embedded Technologies)
+* **Edge AI & Machine Learning**
+  Exploring TinyML, on-device inference, and AI-enabled embedded systems.
 
-* **Real-Time Operating Systems (RTOS) Optimization & Multicore Scheduling**
-* **Edge AI on Microcontrollers (TinyML, on-device inference)**
-* **Secure Boot, Trusted Firmware, and Embedded Cybersecurity**
-* **Low-Power IoT Architectures (BLE Mesh, LoRaWAN, Thread, Matter)**
-* **Embedded Containerization & Virtualization (lightweight containers for IoT gateways)**
+* **IoT Expansion & Connectivity**
+  Working with modern IoT frameworks, secure provisioning, cloud integration, and scalable device networks.
+
+* **Low-Power & Energy-Efficient Design**
+  Focusing on ultra-low-power MCUs, sleep-mode optimization, and energy-efficient wireless protocols (BLE, LoRaWAN).
+
+* **Cybersecurity by Design**
+  Learning secure boot, hardware root-of-trust, firmware signing, encryption, and secure communication strategies.
+
+* **Open-Source Hardware (RISC-V)**
+  Understanding RISC-V architecture, toolchains, and development flows for next-gen embedded systems.
+
+* **DevOps & Modern Development Practices**
+  Implementing CI/CD for firmware, automated testing, container-based embedded workflows, and reproducible builds.
 
 ---
-
-
 
 
