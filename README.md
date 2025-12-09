@@ -84,7 +84,7 @@ Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Int
 
 ##  Key Projects & Achievements
 
-### **1. Camera Systems on Qualcomm RB5 & IFB Boards – Mistral Solutions**
+### **1. Camera Systems on Qualcomm RB5 & IFB Boards**
 - Multi-level **sensor-user communication** and HD video streaming.  
 - **Chromatic tuning** for optimal image and video quality.  
 - Integrated multiple camera modules and **optimized drivers/multimedia pipelines**.
