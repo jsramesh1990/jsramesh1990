@@ -27,6 +27,10 @@ I am constantly exploring **modern embedded strategies, IoT architectures, and a
 
 ##   What I Work With
 
+###   Microprocessors
+
+Qualcomm Snapdragon SoCs | APQ8098 | APQ8009 | QCS605 | QCS610 | QCS404 | AM335x (TI) | i.MX Series (NXP)
+
 ###   Microcontrollers
 
 ARM | PIC | AVR | 8051 | ESP32
