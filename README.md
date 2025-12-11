@@ -37,7 +37,7 @@ I2C | SPI | UART | GPIO | ADC | Timers
 
 ###   Embedded Systems
 
-FreeRTOS | Yocto | Embedded Linux
+FreeRTOS | Yocto & Android BSP | Embedded Linux
 
 ###   Tools & Skills
 
