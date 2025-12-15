@@ -2,7 +2,6 @@
 
 #  Hi there, I'm Sebastian Ramesh 
 
-### Core Skills
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-orange)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%2FZephyr-green)
