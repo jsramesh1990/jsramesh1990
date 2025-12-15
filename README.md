@@ -108,7 +108,7 @@ If you're working on hardware products, sensor systems, or embedded solutions â€
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Embedded C Programming
 
 **Embedded Systems & Platforms:**  
-![Yocto](https://img.shields.io/badge/-Yocto-00BCD4) ![Android BSP](https://img.shields.io/badge/-Android_BSP-3DDC84) ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FF9800) ![U-Boot](https://img.shields.io/badge/-U--Boot-F0B400)
+![Yocto](https://img.shields.io/badge/-Yocto-00BCD4) ![Android BSP](https://img.shields.io/badge/-Android_BSP-3DDC84) ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FF9800) ![U-Boot](https://img.shields.io/badge/-U--Boot-F0B400)<br>
 Yocto BSP, Android BSP, Linux Kernel, U-Boot, RootFS, Board Bring-up, Device Tree  
 IMX8MQ, IMX8QXP, IMX6ULL, IMX6DL, LS1021, Raspberry Pi 4, Qualcomm RB5, IFB boards  
 
