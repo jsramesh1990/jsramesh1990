@@ -1,6 +1,15 @@
 <img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
 #  Hi there, I'm Sebastian Ramesh 
+<!-- Badges Section Start -->
+![Embedded Systems](img.shields.io)
+![C/C++](img.shields.io)
+![RTOS](img.shields.io)
+![Device Drivers](img.shields.io)
+![Linux Kernel](img.shields.io)
+![IoT](img.shields.io)
+![Freelance Available](img.shields.io)
+<!-- Badges Section End -->
 ##   Embedded Software Developer | Open to Freelance Projects
 
 I'm an **Embedded Software Developer** passionate about building **efficient, reliable, and scalable software for hardware systems**. I specialize in **microcontrollers, device drivers, sensor interfacing, embedded C/C++, RTOS, and low-level system programming**.
