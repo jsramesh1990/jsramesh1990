@@ -1,15 +1,24 @@
 <img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
 #  Hi there, I'm Sebastian Ramesh 
-<!-- Badges Section Start -->
-![Embedded Systems](img.shields.io)
-![C/C++](img.shields.io)
-![RTOS](img.shields.io)
-![Device Drivers](img.shields.io)
-![Linux Kernel](img.shields.io)
-![IoT](img.shields.io)
-![Freelance Available](img.shields.io)
-<!-- Badges Section End -->
+https://img.shields.io/badge/Embedded-Systems-blue
+https://img.shields.io/badge/C%252FC%252B%252B-Expert-orange
+https://img.shields.io/badge/RTOS-FreeRTOS%252FZephyr-green
+https://img.shields.io/badge/Linux-Kernel-red
+https://img.shields.io/badge/IoT-Developer-lightblue
+https://img.shields.io/badge/%F0%9F%9A%80-Freelance%2520Available-brightgreen
+
+https://img.shields.io/badge/Embedded-Linux-9cf
+https://img.shields.io/badge/Device-Drivers-yellow
+https://img.shields.io/badge/Microcontrollers-ARM%252FPIC%252FAVR-important
+https://img.shields.io/badge/Microprocessors-Qualcomm%257CNXP%257CTI-success
+https://img.shields.io/badge/Hardware-Bring--up-blueviolet
+
+https://img.shields.io/badge/ARM-Architecture-informational
+https://img.shields.io/badge/FreeRTOS-Realtime%2520OS-green
+https://img.shields.io/badge/Yocto-Project-cyan
+https://img.shields.io/badge/Android-BSP-lightgrey
+https://img.shields.io/badge/Embedded-C-00599C
 ##   Embedded Software Developer | Open to Freelance Projects
 
 I'm an **Embedded Software Developer** passionate about building **efficient, reliable, and scalable software for hardware systems**. I specialize in **microcontrollers, device drivers, sensor interfacing, embedded C/C++, RTOS, and low-level system programming**.
