@@ -75,12 +75,17 @@ Debugging | Optimization | Hardware Bring-Up | C/C++ | Git
 
 ##   Open to Collaborations
 
+![DM Open](https://img.shields.io/badge/💬-DM_Open-00C853)
+![Quick Response](https://img.shields.io/badge/⚡-Quick_Response-FFD600)
+![Available Now](https://img.shields.io/badge/✅-Available_Now-4CAF50)
+![Project Discussion](https://img.shields.io/badge/📋-Project_Discussion-2196F3)
+
 I enjoy connecting with engineers, innovators, and creators to build **smart, real-world embedded and IoT systems**.
 If you're working on hardware products, sensor systems, or embedded solutions — **let’s collaborate!**
 
 ---
 
-##   🔗 Connect with Me
+##   Connect with Me
 
 * **LinkedIn:** linkedin.com/in/sebastian-ramesh-b84911327
 * **Email:** **[js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com)**
