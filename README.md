@@ -118,11 +118,11 @@ IMX8MQ, IMX8QXP, IMX6ULL, IMX6DL, LS1021, Raspberry Pi 4, Qualcomm RB5, IFB boar
 SPI, I2C, UART, TCP/IP, UDP, Socket Programming, IPC  
 
 **Camera & Multimedia:**  
-![Camera](https://img.shields.io/badge/-Camera-9C27B0) ![Multithreading](https://img.shields.io/badge/-Multithreading-0097A7) ![Board Bring-up](https://img.shields.io/badge/-Board_Bring_up-blueviolet) ![NIC](https://img.shields.io/badge/-NIC-388E3C)
+![Camera](https://img.shields.io/badge/-Camera-9C27B0) ![Multithreading](https://img.shields.io/badge/-Multithreading-0097A7) ![Board Bring-up](https://img.shields.io/badge/-Board_Bring_up-blueviolet) ![NIC](https://img.shields.io/badge/-NIC-388E3C) <br>
 Camera driver bring-up, chromatic tuning, real-time image/video optimization, GStreamer pipelines  
 
 **Tools & Debugging:**  
-![Git](https://img.shields.io/badge/-Git-F05032) ![GDB](https://img.shields.io/badge/-GDB-14854F) ![Valgrind](https://img.shields.io/badge/-Valgrind-FF6F00) ![JTAG](https://img.shields.io/badge/-JTAG-8B4513)
+![Git](https://img.shields.io/badge/-Git-F05032) ![GDB](https://img.shields.io/badge/-GDB-14854F) ![Valgrind](https://img.shields.io/badge/-Valgrind-FF6F00) ![JTAG](https://img.shields.io/badge/-JTAG-8B4513)<br>
 GIT, GNU Tools, Thrift Interface, JTAG, Cross-Toolchains, Valgrind, GDB  
 
 **Other Expertise:**  
