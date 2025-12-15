@@ -99,20 +99,6 @@ If you're working on hardware products, sensor systems, or embedded solutions â€
 ##  Technical Skills
 
 
-
-
-### Embedded Platforms
-
-
-### Hardware Protocols
-
-### Tools & Debugging
-
-
-### Specializations
-
-
-
 ###   Programming & Scripting
 
 ![C](https://img.shields.io/badge/-C-A8B9CC) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C) ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)
