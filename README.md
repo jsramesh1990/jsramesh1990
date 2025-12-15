@@ -8,6 +8,26 @@
 ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-red)
 ![IoT Developer](https://img.shields.io/badge/IoT-Developer-lightblue)
 ![Freelance Available](https://img.shields.io/badge/-Freelance%20Available-brightgreen)
+### Embedded Technologies
+![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-9cf)
+![Device Drivers](https://img.shields.io/badge/Device-Drivers-yellow)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-ARM%2FPIC%2FAVR-important)
+![Microprocessors](https://img.shields.io/badge/Microprocessors-Qualcomm%2FNXP%2FTI-success)
+![Hardware Bring-up](https://img.shields.io/badge/Hardware-Bring%20up-blueviolet)
+
+### Platforms & Architecture
+![ARM Architecture](https://img.shields.io/badge/ARM-Architecture-informational)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Realtime%20OS-green)
+![Yocto Project](https://img.shields.io/badge/Yocto-Project-cyan)
+![Android BSP](https://img.shields.io/badge/Android-BSP-lightgrey)
+![Embedded C](https://img.shields.io/badge/Embedded-C-00599C)
+
+### Additional Badges
+![Open Source](https://img.shields.io/badge/Open-Source-success)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032)
+![Debugging](https://img.shields.io/badge/Debugging-Expert-FF4081)
+![Firmware](https://img.shields.io/badge/Firmware-Development-1E88E5)
+![Low-level Programming](https://img.shields.io/badge/Low%20level-Programming-0D47A1)
 
 
 ##   Embedded Software Developer | Open to Freelance Projects
