@@ -98,40 +98,45 @@ If you're working on hardware products, sensor systems, or embedded solutions �
 
 ##  Technical Skills
 
-## 🛠️ Technical Stack
 
-### Programming
-![C](https://img.shields.io/badge/-C-A8B9CC) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C) ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)
+
 
 ### Embedded Platforms
-![Yocto](https://img.shields.io/badge/-Yocto-00BCD4) ![Android BSP](https://img.shields.io/badge/-Android_BSP-3DDC84) ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FF9800) ![U-Boot](https://img.shields.io/badge/-U--Boot-F0B400)
+
 
 ### Hardware Protocols
-![SPI](https://img.shields.io/badge/-SPI-2196F3) ![I2C](https://img.shields.io/badge/-I2C-4CAF50) ![UART](https://img.shields.io/badge/-UART-FF5722)
 
 ### Tools & Debugging
-![Git](https://img.shields.io/badge/-Git-F05032) ![GDB](https://img.shields.io/badge/-GDB-14854F) ![Valgrind](https://img.shields.io/badge/-Valgrind-FF6F00) ![JTAG](https://img.shields.io/badge/-JTAG-8B4513)
+
 
 ### Specializations
-![Camera](https://img.shields.io/badge/-Camera-9C27B0) ![Multithreading](https://img.shields.io/badge/-Multithreading-0097A7) ![Board Bring-up](https://img.shields.io/badge/-Board_Bring_up-blueviolet) ![NIC](https://img.shields.io/badge/-NIC-388E3C)
+
 
 
 ###   Programming & Scripting
+
+![C](https://img.shields.io/badge/-C-A8B9CC) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C) ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)
+
 - **Languages:** C, C++, Python  
 - **Scripting:** Bash / Shell Scripts, Makefile, Markdown (MD)
 - **Concepts:** Object-Oriented Programming (OOP), Data Structures, Embedded C Programming
 
 **Embedded Systems & Platforms:**  
+![Yocto](https://img.shields.io/badge/-Yocto-00BCD4) ![Android BSP](https://img.shields.io/badge/-Android_BSP-3DDC84) ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FF9800) ![U-Boot](https://img.shields.io/badge/-U--Boot-F0B400)
 Yocto BSP, Android BSP, Linux Kernel, U-Boot, RootFS, Board Bring-up, Device Tree  
 IMX8MQ, IMX8QXP, IMX6ULL, IMX6DL, LS1021, Raspberry Pi 4, Qualcomm RB5, IFB boards  
 
 **Protocols & Communication:**  
+![SPI](https://img.shields.io/badge/-SPI-2196F3) ![I2C](https://img.shields.io/badge/-I2C-4CAF50) ![UART](https://img.shields.io/badge/-UART-FF5722)
+
 SPI, I2C, UART, TCP/IP, UDP, Socket Programming, IPC  
 
 **Camera & Multimedia:**  
+![Camera](https://img.shields.io/badge/-Camera-9C27B0) ![Multithreading](https://img.shields.io/badge/-Multithreading-0097A7) ![Board Bring-up](https://img.shields.io/badge/-Board_Bring_up-blueviolet) ![NIC](https://img.shields.io/badge/-NIC-388E3C)
 Camera driver bring-up, chromatic tuning, real-time image/video optimization, GStreamer pipelines  
 
 **Tools & Debugging:**  
+![Git](https://img.shields.io/badge/-Git-F05032) ![GDB](https://img.shields.io/badge/-GDB-14854F) ![Valgrind](https://img.shields.io/badge/-Valgrind-FF6F00) ![JTAG](https://img.shields.io/badge/-JTAG-8B4513)
 GIT, GNU Tools, Thrift Interface, JTAG, Cross-Toolchains, Valgrind, GDB  
 
 **Other Expertise:**  
