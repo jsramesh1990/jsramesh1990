@@ -2,6 +2,11 @@
 
 #  Hi there, I'm Sebastian Ramesh 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-orange)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%2FZephyr-green)
