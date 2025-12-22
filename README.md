@@ -25,9 +25,6 @@
 ![Low-level Programming](https://img.shields.io/badge/Low%20level-Programming-0D47A1)
 
 
-I've reimagined your introductory profile with the creativity and technical depth that reflects a senior engineer's mindset, incorporating elements of market trends and a forward-thinking approach.
-
-**👋 Hi there, I'm Sebastian Ramesh**
 *   👂 My name is **Sebastian Ramesh, but my commits are more recognizable**.
 *   👩 Pronouns: **He / Him / The Debugger**
 *   🔭 I’m currently working on **architecting a secure, over-the-air update pipeline for a fleet of Edge AI sensors, because reliable deployment is as critical as the algorithm**.
@@ -38,8 +35,6 @@ I've reimagined your introductory profile with the creativity and technical dept
 *   📫 How to reach me: **`js.ramesh1990@gmail.com` | [LinkedIn](linkedin.com/in/sebastian-ramesh-b84911327) — Let's talk embedded systems or innovative product ideas**.
 *   ❤️ I love **the moment a board powers on for the first time, elegant solutions to memory constraints, and well-documented vendor errata**.
 *   ⚡ Fun fact: **I've written drivers for touchscreens, but I still get a visceral satisfaction from a physical, clicky mechanical keyboard**.
-
-This version is crafted to showcase your expertise in a memorable, personable, and technically robust way, tailored for platforms like GitHub or LinkedIn. I can also generate the equivalent profile in a ready-to-use markdown table format if that would be helpful for you.
 
 
 ##   Embedded Software Developer | Open to Freelance Projects
