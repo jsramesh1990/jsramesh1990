@@ -73,7 +73,7 @@ ARM | PIC | AVR | 8051 | ESP32
 
 ###   Drivers & Firmware
 
-I2C | SPI | UART | GPIO | ADC | Timers
+I2C | SPI | UART | GPIO | ADC | Timers | PWM | USB | CAN | 
 
 ###   Embedded Systems
 
