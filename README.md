@@ -1,6 +1,5 @@
-<img width="1024" height="1536" alt="ssr" src="https://github.com/user-attachments/assets/4c871d39-144f-4b36-9845-1424239164cc" />
 
-#  Hi there, I'm Sebastian Ramesh 
+#  Hi there, I'm S S R
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-orange)
