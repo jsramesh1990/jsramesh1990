@@ -25,7 +25,6 @@
 
 
 *    My name is **Sebastian Ramesh, but my commits are more recognizable**.
-*    Pronouns: **He / Him / The Debugger**
 *    I’m currently working on **architecting a secure, over-the-air update pipeline for a fleet of Edge AI sensors, because reliable deployment is as critical as the algorithm**.
 *    I’m currently learning **Zephyr RTOS in depth and exploring RISC-V toolchains to future-proof my hardware abstraction layer thinking**.
 *    I’m looking to collaborate on **open-source hardware/software co-design projects, or with startups building the next generation of intelligent, secure IoT devices**.
