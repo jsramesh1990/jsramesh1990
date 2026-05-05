@@ -1,5 +1,5 @@
 
-#  Hi there, I'm S S R
+#  Hi there, I'm Sebastian Ramesh
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%2FZephyr-green)
