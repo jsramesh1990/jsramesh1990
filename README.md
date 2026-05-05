@@ -2,18 +2,14 @@
 #  Hi there, I'm S S R
 
 ![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Expert-orange)
 ![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%2FZephyr-green)
 ![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-red)
 ![IoT Developer](https://img.shields.io/badge/IoT-Developer-lightblue)
 ![Freelance Available](https://img.shields.io/badge/-Freelance%20Available-brightgreen)
 ![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-9cf)
 ![Device Drivers](https://img.shields.io/badge/Device-Drivers-yellow)
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-ARM%2FPIC%2FAVR-important)
 ![Microprocessors](https://img.shields.io/badge/Microprocessors-Qualcomm%2FNXP%2FTI-success)
 ![Hardware Bring-up](https://img.shields.io/badge/Hardware-Bring%20up-blueviolet)
-![ARM Architecture](https://img.shields.io/badge/ARM-Architecture-informational)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Realtime%20OS-green)
 ![Yocto Project](https://img.shields.io/badge/Yocto-Project-cyan)
 ![Android BSP](https://img.shields.io/badge/Android-BSP-lightgrey)
 ![Embedded C](https://img.shields.io/badge/Embedded-C-00599C)
