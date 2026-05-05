@@ -17,11 +17,11 @@
 ![Low-level Programming](https://img.shields.io/badge/Low%20level-Programming-0D47A1)
 
 
-*    My name is **Sebastian Ramesh, but my commits are more recognizable**.
 *    How to reach me: **`js.ramesh1990@gmail.com` | [LinkedIn](linkedin.com/in/sebastian-ramesh-b84911327) — Let's talk embedded systems or innovative product ideas**.
-*    I love **the moment a board powers on for the first time, elegant solutions to memory constraints, and well-documented vendor errata**.
-*    Fun fact: **I've written drivers for touchscreens, but I still get a visceral satisfaction from a physical, clicky mechanical keyboard**.
-
+*    Embedded Software Engineer passionate about Linux, Yocto, Android BSP, device drivers, and low-level system development.
+*    Open to discussing embedded systems, product development, and freelance opportunities.
+*    Interested in system optimization, memory management, and hardware-software integration.
+  
 
 ##   Embedded Software Developer | Open to Freelance Projects
 
