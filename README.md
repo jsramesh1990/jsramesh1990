@@ -1,155 +1,96 @@
+# Hi, I'm Sebastian Ramesh 
 
-#  Hi there, I'm Sebastian Ramesh
+**Embedded Software Engineer | Linux | Yocto | Android BSP | Device Drivers**
 
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto_Project-FFFFFF?style=for-the-badge&logo=yocto&logoColor=black)
-![Android BSP](https://img.shields.io/badge/Android_BSP-3DDC84?style=for-the-badge&logo=android&logoColor=black)
-![Device Drivers](https://img.shields.io/badge/Device_Drivers-FF6F00?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
-*    How to reach me: **`js.ramesh1990@gmail.com` | [LinkedIn](linkedin.com/in/sebastian-ramesh-b84911327) — Let's talk embedded systems or innovative product ideas**.
-*    Embedded Software Engineer passionate about Linux, Yocto, Android BSP, device drivers, and low-level system development.
-*    Open to discussing embedded systems, product development, and freelance opportunities.
-*    Interested in system optimization, memory management, and hardware-software integration.
-  
-
-##   Embedded Software Developer | Open to Freelance Projects
-
-I'm an **Embedded Software Developer** passionate about building **efficient, reliable, and scalable software for hardware systems**. I specialize in **microcontrollers, device drivers, sensor interfacing, embedded C/C++, RTOS, and low-level system programming**.
-
-I am constantly exploring **modern embedded strategies, IoT architectures, and advanced system design patterns**. I enjoy collaborating with people who value innovation, strong technical foundations, and continuous learning.
+Passionate about building efficient, scalable, and reliable embedded systems with strong expertise in Linux-based platforms, board bring-up, kernel customization, and hardware-software integration.
 
 ---
 
-##   What I'm Looking For
+##  About Me
 
-*   **Freelance Embedded / IoT Projects**
-    **Technical Collaboration & Open-Source Contributions**
-*   **Opportunities to learn and grow in IoT, RTOS, Linux Kernel, and next-gen embedded logic**
+- Embedded Software Developer with experience in:
+  - Embedded Linux
+  - Yocto & Android BSP
+  - Linux Kernel & Device Drivers
+  - Board Bring-up & Hardware Debugging
+  - Camera Systems & Multimedia Pipelines
 
----
+- Interested in:
+  - IoT Systems
+  - Edge AI / TinyML
+  - RTOS
+  - Secure Embedded Systems
+  - Low-power embedded design
 
-##   My Mindset
-
-*    A hard-working engineer who pushes boundaries and delivers results
-*    Focused on improving system-level thinking, design strategy, and technical depth
-*    Lifelong learner exploring deeper layers of embedded systems and technology
-
----
-
-##   What I Work With
-
-###   Microprocessors
-
-Qualcomm Snapdragon SoCs | APQ8098 | APQ8009 | QCS605 | QCS610 | QCS404 | AM335x (TI) | i.MX Series (NXP)
-
-###   Microcontrollers
-
-ARM | PIC | AVR | 8051 | ESP32
-
-###   Drivers & Firmware
-
-I2C | SPI | UART | GPIO | ADC | Timers | PWM | USB | CAN | 
-
-###   Embedded Systems
-
-FreeRTOS | Yocto & Android BSP | Embedded Linux
-
-###   Tools & Skills
-
-Debugging | Optimization | Hardware Bring-Up | C/C++ | Git
+- Open to:
+  - Freelance Embedded Projects
+  - Open-source collaboration
+  - Embedded/Linux opportunities
 
 ---
 
-##   Open to Collaborations
+##  Tech Stack
 
-![Sensor Systems](https://img.shields.io/badge/📊-Sensor_Systems-1ABC9C)
-![Embedded Solutions](https://img.shields.io/badge/💾-Embedded_Solutions-34495E)
-![IoT Architecture](https://img.shields.io/badge/🏙️-IoT_Architecture-3498DB)
-![DM Open](https://img.shields.io/badge/💬-DM_Open-00C853)
-![Quick Response](https://img.shields.io/badge/⚡-Quick_Response-FFD600)
-![Available Now](https://img.shields.io/badge/✅-Available_Now-4CAF50)
-![Project Discussion](https://img.shields.io/badge/📋-Project_Discussion-2196F3)
+### Languages
+`C` `C++` `Python` `Bash`
 
-I enjoy connecting with engineers, innovators, and creators to build **smart, real-world embedded and IoT systems**.
-If you're working on hardware products, sensor systems, or embedded solutions — **let’s collaborate!**
+### Embedded Platforms
+- Qualcomm Snapdragon SoCs
+- NXP i.MX Series
+- TI AM335x
+- Raspberry Pi
+- ESP32
+- ARM Cortex MCUs
 
----
+### Embedded/Linux
+- Embedded Linux
+- Yocto Project
+- Android BSP
+- Linux Kernel
+- U-Boot
+- Device Tree
+- RootFS Customization
 
-##   Connect with Me
+### Protocols
+`I2C` `SPI` `UART` `CAN` `USB` `TCP/IP` `UDP`
 
-* **LinkedIn:** linkedin.com/in/sebastian-ramesh-b84911327
-* **Email:** **[js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com)**
-
----
-
-##  Technical Skills
-
-
-###   Programming & Scripting
-
-![C](https://img.shields.io/badge/-C-A8B9CC) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C) ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25)
-
-- **Languages:** C, C++, Python  
-- **Scripting:** Bash / Shell Scripts, Makefile, Markdown (MD)
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures, Embedded C Programming
-
-**Embedded Systems & Platforms:**  
-![Yocto](https://img.shields.io/badge/-Yocto-00BCD4) ![Android BSP](https://img.shields.io/badge/-Android_BSP-3DDC84) ![Linux Kernel](https://img.shields.io/badge/-Linux_Kernel-FF9800) ![U-Boot](https://img.shields.io/badge/-U--Boot-F0B400)<br>
-Yocto BSP, Android BSP, Linux Kernel, U-Boot, RootFS, Board Bring-up, Device Tree  
-IMX8MQ, IMX8QXP, IMX6ULL, IMX6DL, LS1021, Raspberry Pi 4, Qualcomm RB5, IFB boards  
-
-**Protocols & Communication:**  
-![SPI](https://img.shields.io/badge/-SPI-2196F3) ![I2C](https://img.shields.io/badge/-I2C-4CAF50) ![UART](https://img.shields.io/badge/-UART-FF5722)
-
-SPI, I2C, UART, TCP/IP, UDP, Socket Programming, IPC  
-
-**Camera & Multimedia:**  
-![Camera](https://img.shields.io/badge/-Camera-9C27B0) ![Multithreading](https://img.shields.io/badge/-Multithreading-0097A7) ![Board Bring-up](https://img.shields.io/badge/-Board_Bring_up-blueviolet) ![NIC](https://img.shields.io/badge/-NIC-388E3C) <br>
-Camera driver bring-up, chromatic tuning, real-time image/video optimization, GStreamer pipelines  
-
-**Tools & Debugging:**  
-![Git](https://img.shields.io/badge/-Git-F05032) ![GDB](https://img.shields.io/badge/-GDB-14854F) ![Valgrind](https://img.shields.io/badge/-Valgrind-FF6F00) ![JTAG](https://img.shields.io/badge/-JTAG-8B4513)<br>
-GIT, GNU Tools, Thrift Interface, JTAG, Cross-Toolchains, Valgrind, GDB  
-
-**Other Expertise:**  
-Multithreading, Kernel Optimization, Firmware Development, Hardware-Software Integration, NIC Configuration  
+### Tools
+`Git` `GDB` `Valgrind` `JTAG` `Cross Toolchains`
 
 ---
 
-##  Achievements & Highlights
-- Expert in **camera systems, real-time image/video processing, and embedded Linux kernel optimization**.  
-- Successfully completed **multiple board bring-ups and BSP developments** on ARM and Qualcomm platforms.  
-- Developed **high-performance, multithreaded embedded applications** with robust communication protocols.  
-- Proficient in **Yocto/Android BSP development, device drivers, and multimedia pipeline optimization**.  
-- Delivered **innovative solutions** in smart traffic, facial recognition, LiDAR, and industrial monitoring systems.  
+##  Featured Projects
+
+### Linux & Embedded
+- **Linux Device Driver Examples**
+- **Yocto BSP Customization**
+- **GPIO / I2C / SPI Driver Demos**
+- **Board Bring-up & Boot Optimization**
+
+### IoT & Microcontrollers
+- ESP32 Sensor Monitoring
+- Embedded Data Acquisition Frameworks
+- Real-time Monitoring Systems
 
 ---
 
-##   Currently Learning
+##  Currently Learning
 
-* **Edge AI & Machine Learning**
-  Exploring TinyML, on-device inference, and AI-enabled embedded systems.
-
-* **IoT Expansion & Connectivity**
-  Working with modern IoT frameworks, secure provisioning, cloud integration, and scalable device networks.
-
-* **Low-Power & Energy-Efficient Design**
-  Focusing on ultra-low-power MCUs, sleep-mode optimization, and energy-efficient wireless protocols (BLE, LoRaWAN).
-
-* **Cybersecurity by Design**
-  Learning secure boot, hardware root-of-trust, firmware signing, encryption, and secure communication strategies.
-
-* **Open-Source Hardware (RISC-V)**
-  Understanding RISC-V architecture, toolchains, and development flows for next-gen embedded systems.
-
-* **DevOps & Modern Development Practices**
-  Implementing CI/CD for firmware, automated testing, container-based embedded workflows, and reproducible builds.
+- Edge AI / TinyML
+- Secure Boot & Firmware Security
+- RISC-V Architecture
+- CI/CD for Embedded Systems
+- Cloud-connected IoT Systems
 
 ---
 
+##  Connect With Me
 
+📧 **Email:** js.ramesh1990@gmail.com  
+🔗 **LinkedIn:** linkedin.com/in/sebastian-ramesh-b84911327  
+
+---
+
+##  Fun Fact
+
+I enjoy solving low-level system challenges, optimizing boot times, debugging hardware issues, and building robust embedded solutions from silicon to software.
