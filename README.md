@@ -1,20 +1,14 @@
 
 #  Hi there, I'm Sebastian Ramesh
 
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-blue)
-![RTOS](https://img.shields.io/badge/RTOS-FreeRTOS%2FZephyr-green)
-![Linux Kernel](https://img.shields.io/badge/Linux-Kernel-red)
-![IoT Developer](https://img.shields.io/badge/IoT-Developer-lightblue)
-![Freelance Available](https://img.shields.io/badge/-Freelance%20Available-brightgreen)
-![Embedded Linux](https://img.shields.io/badge/Embedded-Linux-9cf)
-![Device Drivers](https://img.shields.io/badge/Device-Drivers-yellow)
-![Microprocessors](https://img.shields.io/badge/Microprocessors-Qualcomm%2FNXP%2FTI-success)
-![Yocto Project](https://img.shields.io/badge/Yocto-Project-cyan)
-![Android BSP](https://img.shields.io/badge/Android-BSP-lightgrey)
-![Embedded C](https://img.shields.io/badge/Embedded-C-00599C)
-![Debugging](https://img.shields.io/badge/Debugging-Expert-FF4081)
-![Firmware](https://img.shields.io/badge/Firmware-Development-1E88E5)
-![Low-level Programming](https://img.shields.io/badge/Low%20level-Programming-0D47A1)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0A66C2?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Yocto](https://img.shields.io/badge/Yocto_Project-FFFFFF?style=for-the-badge&logo=yocto&logoColor=black)
+![Android BSP](https://img.shields.io/badge/Android_BSP-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+![Device Drivers](https://img.shields.io/badge/Device_Drivers-FF6F00?style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 *    How to reach me: **`js.ramesh1990@gmail.com` | [LinkedIn](linkedin.com/in/sebastian-ramesh-b84911327) — Let's talk embedded systems or innovative product ideas**.
