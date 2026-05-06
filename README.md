@@ -67,7 +67,6 @@ Debugging | Optimization | Hardware Bring-Up | C/C++ | Git
 
 ##   Open to Collaborations
 
-![Hardware Products](https://img.shields.io/badge/🏗️-Hardware_Products-2C3E50)
 ![Sensor Systems](https://img.shields.io/badge/📊-Sensor_Systems-1ABC9C)
 ![Embedded Solutions](https://img.shields.io/badge/💾-Embedded_Solutions-34495E)
 ![IoT Architecture](https://img.shields.io/badge/🏙️-IoT_Architecture-3498DB)
