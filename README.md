@@ -9,10 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ramesh-b84911327)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js.ramesh1990@gmail.com)
 
-```diff
-+ "I don't always test my code, but when I do, I do it in production." +
-- "Just kidding. I have unit tests... mostly." +
-```
+> *"In a world of volatile memory, be the persistent storage."*
 
 ---
 
@@ -31,8 +28,6 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-*"In a world of volatile memory, be the persistent storage."*
-
 ---
 
 ## 🏰 The Legend
@@ -45,8 +40,9 @@ static void __init sebastian_init(void)
     printk(KERN_INFO "Initializing Sebastian Ramesh...\n");
     
     /* Core capabilities */
-    sebastian.skills = SKILL_EMBEDDED_LINUX | SKILL_YOCTO | SKILL_ANDROID_BSP |
-                       SKILL_DEVICE_DRIVERS | SKILL_KERNEL_HACKING;
+    sebastian.skills = SKILL_EMBEDDED_LINUX | SKILL_YOCTO | 
+                       SKILL_ANDROID_BSP | SKILL_DEVICE_DRIVERS | 
+                       SKILL_KERNEL_HACKING;
     
     /* Preferred weapons */
     sebastian.weapons[C] = "+5 Vorpal C Compiler";
@@ -68,28 +64,26 @@ static void __init sebastian_init(void)
 
 <div align="center">
 
-| Domain | Arsenal | Mastery Level |
-|--------|---------|---------------|
-| 🐧 **Embedded Linux** | Kernel, U-Boot, Device Tree, RootFS | ████████░░ 85% |
-| 🍕 **Yocto Project** | Recipes, Layers, BitBake Sorcery | ███████░░░ 78% |
-| 🤖 **Android BSP** | HAL, Treble, AOSP Conjuring | ███████░░░ 75% |
-| 🔌 **Device Drivers** | Char, Block, Network, USB Demons | █████████░ 90% |
-| 🔥 **Board Bring-up** | Bootloaders, Clocks, PMIC Wrangling | ████████░░ 82% |
+| Domain | Arsenal | Mastery |
+|:-------|:--------|:-------:|
+| 🐧 **Embedded Linux** | Kernel, U-Boot, Device Tree | ████████░░ 85% |
+| 🍕 **Yocto Project** | Recipes, Layers, BitBake | ███████░░░ 78% |
+| 🤖 **Android BSP** | HAL, Treble, AOSP | ███████░░░ 75% |
+| 🔌 **Device Drivers** | Char, Block, Network, USB | █████████░ 90% |
+| 🔥 **Board Bring-up** | Bootloaders, Clocks, PMIC | ████████░░ 82% |
 
 </div>
 
 ### 🛡️ Elemental Protocols
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  ⚡ I2C    │  The Whisper Between Chips                     │
-│  🌀 SPI    │  The Four-Wire Dance                           │
-│  💬 UART   │  The Serial Storyteller                        │
-│  🚗 CAN    │  The Vehicle's Nervous System                  │
-│  🔌 USB    │  Universal Serial Binding                      │
-│  🌐 TCP/IP │  The Digital Threads of Fate                   │
-└─────────────────────────────────────────────────────────────┘
-```
+| Protocol | Ancient Name |
+|:---------|:-------------|
+| ⚡ **I2C** | The Whisper Between Chips |
+| 🌀 **SPI** | The Four-Wire Dance |
+| 💬 **UART** | The Serial Storyteller |
+| 🚗 **CAN** | The Vehicle's Nervous System |
+| 🔌 **USB** | Universal Serial Binding |
+| 🌐 **TCP/IP** | The Digital Threads of Fate |
 
 ---
 
@@ -97,13 +91,13 @@ static void __init sebastian_init(void)
 
 ### 🔮 Legendary Tomes
 
-| Project | Description | Runes |
-|---------|-------------|-------|
-| **Systems_Stack_C-CPP-Embedded** | The Complete Codex of Systems Programming | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **Aquarium-Tank-Monitoring** | Automated Guardian of Aquatic Realms | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **imx6qdl-sabresd** | LED Sequence Enchantment for i.MX6 | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **virtual_sysfs_GPIO** | Illusionary GPIO Weaving | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
-| **I2C-Sensor-Data-Acquisition** | Real-time Data Divination Framework | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Project | Description | Tech |
+|:--------|:------------|:----:|
+| **[Systems_Stack_C-CPP-Embedded](https://github.com/jsramesh1990/Systems_Stack_C-CPP-Embedded)** | The Complete Codex of Systems Programming | `C` |
+| **[Aquarium-Tank-Monitoring](https://github.com/jsramesh1990/Aquarium-Tank-Monitoring)** | Automated Guardian of Aquatic Realms | `C++` |
+| **[imx6qdl-sabresd](https://github.com/jsramesh1990/imx6qdl-sabresd)** | LED Sequence Enchantment for i.MX6 | `C` |
+| **[virtual_sysfs_GPIO](https://github.com/jsramesh1990/virtual_sysfs_GPIO)** | Illusionary GPIO Weaving | `C` |
+| **[I2C-Sensor-Data-Acquisition](https://github.com/jsramesh1990/I2C-Sensor-Data-Acquisition)** | Real-time Data Divination Framework | `Python` |
 
 ---
 
@@ -141,18 +135,20 @@ class SebastianAdventure:
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│     ██████╗ ██████╗ ███╗   ██╗████████╗██████╗ ██╗██████╗   │
-│    ██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗██║██╔══██╗  │
-│    ██║     ██║   ██║██╔██╗ ██║   ██║   ██████╔╝██║██████╔╝  │
-│    ██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██╗██║██╔═══╝   │
-│    ╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║██║██║       │
-│     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝       │
-│                                                             │
-│                24 followers  •  65 repositories            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║      ██████╗ ██████╗ ███╗   ██╗████████╗██████╗ ██╗██████╗    ║
+║     ██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗██║██╔══██╗   ║
+║     ██║     ██║   ██║██╔██╗ ██║   ██║   ██████╔╝██║██████╔╝   ║
+║     ██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██╗██║██╔═══╝    ║
+║     ╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║██║██║        ║
+║      ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝        ║
+║                                                               ║
+║               📦 65 Repositories                              ║
+║               👥 24 Followers                                ║
+║               ⭐ 137 Stars across repos                       ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -163,10 +159,9 @@ class SebastianAdventure:
 
 <div align="center">
 
-| | | |
-|---|---|---|
-| 🏢 **Qualcomm** | ⚡ **NXP i.MX** | 🌾 **TI Sitara** |
-| 🍓 **Raspberry Pi** | 📡 **ESP32** | 🎯 **ARM Cortex** |
+| 🏢 Qualcomm | ⚡ NXP i.MX | 🌾 TI Sitara |
+|:-----------:|:-----------:|:------------:|
+| 🍓 Raspberry Pi | 📡 ESP32 | 🎯 ARM Cortex |
 
 </div>
 
@@ -176,13 +171,10 @@ class SebastianAdventure:
 
 <div align="center">
 
-[![Pull Shark](https://github.com/jsramesh1990/jsramesh1990/assets/placeholder/pull-shark.svg)](https://github.com/jsramesh1990)
-[![Quickdraw](https://github.com/jsramesh1990/jsramesh1990/assets/placeholder/quickdraw.svg)](https://github.com/jsramesh1990)
-
-```
-🏅 Pull Shark x2    - "The Contributor's Mark"
-⚡ Quickdraw        - "Fastest PR in the West"
-```
+| Badge | Title | Lore |
+|:-----:|:------|:-----|
+| 🦈 **Pull Shark x2** | *The Contributor's Mark* | Two successful PRs merged into the mothership |
+| ⚡ **Quickdraw** | *Fastest PR in the West* | Lightning-fast pull request responses |
 
 </div>
 
@@ -192,8 +184,8 @@ class SebastianAdventure:
 
 <div align="center">
 
-| Method | Incantation |
-|--------|-------------|
+| Method | Portal |
+|:-------|:-------|
 | 📧 **Ethereal Mail** | `js.ramesh1990@gmail.com` |
 | 🔗 **LinkedIn Runes** | [Sebastian Ramesh](https://linkedin.com/in/sebastian-ramesh-b84911327) |
 | 🐙 **GitHub Portal** | [@jsramesh1990](https://github.com/jsramesh1990) |
@@ -205,37 +197,63 @@ class SebastianAdventure:
 ## 📜 The Sacred Scroll of Contributions
 
 ```
-Heat Map of Digital Conquests
-─────────────────────────────────────────────────────────────
-May    ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2026
-2025   ████████████████████████████████████████  Legendary Year
-─────────────────────────────────────────────────────────────
-"609 souls saved from segmentation faults this year"
+┌─────────────────────────────────────────────────────────────────────┐
+│                    HEAT MAP OF DIGITAL CONQUESTS                    │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│   May 2026   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%  │
+│   Apr 2026   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%  │
+│   Mar 2026   ████████████████████████████████████████████████  100%  │
+│   Feb 2026   ████████████████████████████████████████████████  100%  │
+│   Jan 2026   ████████████████████████████████████████████████  100%  │
+│                                                                     │
+│   📊 Total: 609 contributions in the last year                      │
+│   💀 "609 souls saved from segmentation faults this year"           │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## ⚡ Random Encounter Quote
 
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   "Segmentation fault: Your code has encountered a dragon.         │
+│    Roll for initiative, roll for debugger."                         │
+│                                                                     │
+│                              -- Fortune from the Embedded Realms    │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎵 The Developer's Anthem
+
 ```bash
-$ fortune -s embedded
-─────────────────────────────────────────────────────────────
-"Segmentation fault: Your code has encountered a dragon.
- Roll for initiative, roll for debugger."
-─────────────────────────────────────────────────────────────
+while [ true ]; do
+    echo "brew install coffee"
+    echo "git commit -am 'progress'"
+    echo "make debug"
+    echo "sleep 2"
+    echo "# Still debugging..."
+done
 ```
 
 ---
 
 <div align="center">
 
-```diff
-+  ___________________________________ +
-+ |                                   |
-+ |   May your stack never overflow,  |
-+ |   your pointers never stray,      |
-+ |   and your kernel never panic.    |
-+ |___________________________________|
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   May your stack never overflow,                                    │
+│   your pointers never stray,                                        │
+│   and your kernel never panic.                                      │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### *⚔️ Fork with honor • Star with valor • Code with courage ⚔️*
@@ -248,3 +266,4 @@ $ fortune -s embedded
 
 </div>
 ```
+
