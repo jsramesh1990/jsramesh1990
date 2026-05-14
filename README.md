@@ -85,11 +85,11 @@ I'm an **Embedded Software Engineer** specializing in Linux-based platforms, boa
 
 ## Professional Interests
 
-- 🧠 **Edge AI / TinyML** - Deploying machine learning on resource-constrained devices
-- 🔒 **Secure Boot & Firmware Security** - Building trust from the ground up
-- 🦿 **RISC-V Architecture** - Open-source instruction set architecture
-- 🚀 **CI/CD for Embedded** - Automating embedded software delivery
-- ☁️ **Cloud-connected IoT** - Secure device-to-cloud integration
+-  **Edge AI / TinyML** - Deploying machine learning on resource-constrained devices
+-  **Secure Boot & Firmware Security** - Building trust from the ground up
+-  **RISC-V Architecture** - Open-source instruction set architecture
+-  **CI/CD for Embedded** - Automating embedded software delivery
+-  **Cloud-connected IoT** - Secure device-to-cloud integration
 
 ---
 
@@ -131,9 +131,9 @@ I'm an **Embedded Software Engineer** specializing in Linux-based platforms, boa
 
 ## Open To
 
-- 🤝 **Freelance Embedded Projects**
-- 🔬 **Open-source Collaboration**
-- 💼 **Embedded/Linux Engineering Opportunities**
+-  **Freelance Embedded Projects**
+-  **Open-source Collaboration**
+-  **Embedded/Linux Engineering Opportunities**
 
 ---
 
@@ -141,9 +141,9 @@ I'm an **Embedded Software Engineer** specializing in Linux-based platforms, boa
 
 | Platform | Link |
 |:---------|:-----|
-| 📧 Email | [js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com) |
-| 🔗 LinkedIn | [Sebastian Ramesh](https://linkedin.com/in/sebastian-ramesh-b84911327) |
-| 🐙 GitHub | [@jsramesh1990](https://github.com/jsramesh1990) |
+|  Email | [js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com) |
+|  LinkedIn | [Sebastian Ramesh](https://linkedin.com/in/sebastian-ramesh-b84911327) |
+|  GitHub | [@jsramesh1990](https://github.com/jsramesh1990) |
 
 ---
 
