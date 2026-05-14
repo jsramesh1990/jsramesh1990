@@ -1,268 +1,159 @@
 
 <div align="center">
 
-# 🧙‍♂️ Sebastian Ramesh
+# Sebastian Ramesh
 
-### *The Embedded Code Weaver*
+### Embedded Software Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?style=for-the-badge&logo=github&color=0a0f0f&labelColor=1a2a2a)](https://github.com/jsramesh1990)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ramesh-b84911327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js.ramesh1990@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?style=flat-square&logo=github&labelColor=24292e&color=2ea44f)](https://github.com/jsramesh1990)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ramesh-b84911327)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:js.ramesh1990@gmail.com)
 
-> *"In a world of volatile memory, be the persistent storage."*
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║   ░█▀▀░█▀█░█▀▄░█▀▀░█░█░░░█▀▀░█▀█░█▄█░█▀█░█░░░█▀▀░▀█▀░█▀▀░░░░░░░░   ║
-║   ░█░░░█░█░█░█░█▀▀░▄▀▄░░░█░░░█░█░█░█░█▀▀░█░░░█▀▀░░█░░█▀▀░░░░░░░░   ║
-║   ░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀░░░▀▀▀░▀▀▀░░▀░░▀▀▀░░░░░░░░   ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-║   ░█▀▀░█░█░▀█▀░█▀▀░░░█▀▄░█▀▀░█░█░█▀▀░░░█▀█░█▀█░█▀▀░█▀▄░░░░░░░░░░   ║
-║   ░█░░░█░█░░█░░█▀▀░░░█▀▄░█▀▀░▄▀▄░█▀▀░░░█░█░█▀█░█▀▀░█░█░░░░░░░░░░   ║
-║   ░▀▀▀░▀▀▀░▀▀▀░▀▀▀░░░▀░▀░▀▀▀░▀░▀░▀▀▀░░░▀▀▀░▀░▀░▀▀▀░▀▀░░░░░░░░░░░   ║
-║   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 🏰 The Legend
-
-</div>
-
-```c
-static void __init sebastian_init(void)
-{
-    printk(KERN_INFO "Initializing Sebastian Ramesh...\n");
-    
-    /* Core capabilities */
-    sebastian.skills = SKILL_EMBEDDED_LINUX | SKILL_YOCTO | 
-                       SKILL_ANDROID_BSP | SKILL_DEVICE_DRIVERS | 
-                       SKILL_KERNEL_HACKING;
-    
-    /* Preferred weapons */
-    sebastian.weapons[C] = "+5 Vorpal C Compiler";
-    sebastian.weapons[CPP] = "Sacred C++11 Standards";
-    sebastian.weapons[PYTHON] = "Python's Arcane Spells";
-    sebastian.weapons[BASH] = "The One-Liner Wand";
-    
-    /* Currently wielding */
-    sebastian.current_quest = "Mastering the Edge AI Grimoire";
-    sebastian.mana_pool = "Unlimited Coffee";
-    
-    sebastian.status = STATUS_DEBUGGING_THE_MATRIX;
-}
-```
-
----
-
-## ⚔️ Arcane Arts & Combat Skills
-
-<div align="center">
-
-| Domain | Arsenal | Mastery |
-|:-------|:--------|:-------:|
-| 🐧 **Embedded Linux** | Kernel, U-Boot, Device Tree | ████████░░ 85% |
-| 🍕 **Yocto Project** | Recipes, Layers, BitBake | ███████░░░ 78% |
-| 🤖 **Android BSP** | HAL, Treble, AOSP | ███████░░░ 75% |
-| 🔌 **Device Drivers** | Char, Block, Network, USB | █████████░ 90% |
-| 🔥 **Board Bring-up** | Bootloaders, Clocks, PMIC | ████████░░ 82% |
-
-</div>
-
-### 🛡️ Elemental Protocols
-
-| Protocol | Ancient Name |
-|:---------|:-------------|
-| ⚡ **I2C** | The Whisper Between Chips |
-| 🌀 **SPI** | The Four-Wire Dance |
-| 💬 **UART** | The Serial Storyteller |
-| 🚗 **CAN** | The Vehicle's Nervous System |
-| 🔌 **USB** | Universal Serial Binding |
-| 🌐 **TCP/IP** | The Digital Threads of Fate |
-
----
-
-## 📜 Grimoire of Projects
-
-### 🔮 Legendary Tomes
-
-| Project | Description | Tech |
-|:--------|:------------|:----:|
-| **[Systems_Stack_C-CPP-Embedded](https://github.com/jsramesh1990/Systems_Stack_C-CPP-Embedded)** | The Complete Codex of Systems Programming | `C` |
-| **[Aquarium-Tank-Monitoring](https://github.com/jsramesh1990/Aquarium-Tank-Monitoring)** | Automated Guardian of Aquatic Realms | `C++` |
-| **[imx6qdl-sabresd](https://github.com/jsramesh1990/imx6qdl-sabresd)** | LED Sequence Enchantment for i.MX6 | `C` |
-| **[virtual_sysfs_GPIO](https://github.com/jsramesh1990/virtual_sysfs_GPIO)** | Illusionary GPIO Weaving | `C` |
-| **[I2C-Sensor-Data-Acquisition](https://github.com/jsramesh1990/I2C-Sensor-Data-Acquisition)** | Real-time Data Divination Framework | `Python` |
-
----
-
-## 🧪 Currently Brewing
-
-```python
-class SebastianAdventure:
-    def __init__(self):
-        self.quests = [
-            "🧠 Edge AI / TinyML - Teaching chips to dream",
-            "🔒 Secure Boot & Firmware Security - Building digital fortresses",
-            "🦿 RISC-V Architecture - The open instruction revolution",
-            "🚀 CI/CD for Embedded Systems - Automating the arcane",
-            "☁️ Cloud-connected IoT Systems - Bridging realms"
-        ]
-    
-    def daily_ritual(self):
-        return [
-            "☕ Summon coffee spirits",
-            "💻 Debug the unspeakable",
-            "🐛 Banish segmentation faults",
-            "📜 Read ancient kernel documentation",
-            "🌙 Optimize boot times until dawn"
-        ]
-    
-    @property
-    def battle_cry(self):
-        return "git commit -m 'Fixed the unfixable'"
-```
-
----
-
-## 🎭 The Numbers Speak
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║      ██████╗ ██████╗ ███╗   ██╗████████╗██████╗ ██╗██████╗    ║
-║     ██╔════╝██╔═══██╗████╗  ██║╚══██╔══╝██╔══██╗██║██╔══██╗   ║
-║     ██║     ██║   ██║██╔██╗ ██║   ██║   ██████╔╝██║██████╔╝   ║
-║     ██║     ██║   ██║██║╚██╗██║   ██║   ██╔══██╗██║██╔═══╝    ║
-║     ╚██████╗╚██████╔╝██║ ╚████║   ██║   ██║  ██║██║██║        ║
-║      ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝        ║
-║                                                               ║
-║               📦 65 Repositories                              ║
-║               👥 24 Followers                                ║
-║               ⭐ 137 Stars across repos                       ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**Bangalore, India** · *he/him*
 
 </div>
 
 ---
 
-## 🗺️ Guild Affiliations
+## About Me
+
+I'm an **Embedded Software Engineer** specializing in Linux-based platforms, board bring-up, and hardware-software integration. With extensive experience across the embedded stack - from bootloaders to application layer - I build efficient, scalable, and reliable embedded systems.
+
+### What I Do
+
+| Focus Area | Expertise |
+|:-----------|:----------|
+| **Embedded Linux** | Kernel customization, U-Boot, Device Tree, RootFS building |
+| **Yocto Project** | Custom layers, recipe creation, BSP maintenance |
+| **Android BSP** | HAL implementation, Treble integration, AOSP customization |
+| **Device Drivers** | Character, block, network, and USB driver development |
+| **Board Bring-up** | Bootloader porting, clock configuration, PMIC integration |
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Embedded Platforms
+
+| Platform | Experience |
+|:---------|:-----------|
+| Qualcomm Snapdragon | SoC bring-up, board support |
+| NXP i.MX Series | Linux BSP, device tree configuration |
+| TI AM335x | U-Boot, kernel porting |
+| Raspberry Pi | Prototyping, peripheral integration |
+| ESP32 | RTOS, sensor interfacing |
+| ARM Cortex-M | Bare-metal, FreeRTOS |
+
+### Communication Protocols
+
+`I2C` · `SPI` · `UART` · `CAN` · `USB` · `TCP/IP` · `UDP`
+
+### Development Tools
+
+`Git` · `GDB` · `Valgrind` · `JTAG (OpenOCD, J-Link)` · `Cross-compilation toolchains`
+
+---
+
+## Featured Projects
+
+### [Systems Stack: C/C++ Embedded](https://github.com/jsramesh1990/Systems_Stack_C-CPP-Embedded)
+*A comprehensive systems programming resource covering memory management, concurrency, and embedded concepts.*
+
+### [Aquarium Tank Monitoring System](https://github.com/jsramesh1990/Aquarium-Tank-Monitoring)
+*ESP32-based automated monitoring system for water parameters with real-time control capabilities.*
+
+### [I2C Sensor Data Acquisition](https://github.com/jsramesh1990/I2C-Sensor-Data-Acquisition-and-Visualization-using-C-and-Python)
+*Real-time embedded data processing framework with C backend and PyQt visualization.*
+
+### [Linux Device Driver Examples](https://github.com/jsramesh1990/virtual_sysfs_GPIO)
+*Virtual GPIO driver demonstrating sysfs interface implementation for Linux.*
+
+### [i.MX6 LED Sequence](https://github.com/jsramesh1990/imx6qdl-sabresd)
+*LED control implementation for NXP i.MX6QDL SabreSD platform.*
+
+### [Stock Analyzer](https://github.com/jsramesh1990/Stock-Analyzer)
+*C-based financial data analysis tool demonstrating algorithmic processing.*
+
+---
+
+## Professional Interests
+
+- 🧠 **Edge AI / TinyML** - Deploying machine learning on resource-constrained devices
+- 🔒 **Secure Boot & Firmware Security** - Building trust from the ground up
+- 🦿 **RISC-V Architecture** - Open-source instruction set architecture
+- 🚀 **CI/CD for Embedded** - Automating embedded software delivery
+- ☁️ **Cloud-connected IoT** - Secure device-to-cloud integration
+
+---
+
+## Experience Highlights
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🔧 Embedded Linux         ████████████████████░░░░░░░░  85%   │
+│  🔧 Yocto Project          ████████████████░░░░░░░░░░░░  78%   │
+│  🔧 Android BSP            ████████████████░░░░░░░░░░░░  75%   │
+│  🔧 Device Drivers         ████████████████████████░░░░  90%   │
+│  🔧 Board Bring-up         ████████████████████░░░░░░░░  82%   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Current Focus
+
+- Mastering Edge AI / TinyML frameworks
+- Deepening expertise in secure boot implementations
+- Exploring RISC-V architecture and toolchains
+- Building CI/CD pipelines for embedded projects
+- Developing cloud-connected IoT solutions
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-| 🏢 Qualcomm | ⚡ NXP i.MX | 🌾 TI Sitara |
-|:-----------:|:-----------:|:------------:|
-| 🍓 Raspberry Pi | 📡 ESP32 | 🎯 ARM Cortex |
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=0d1117)](https://github.com/jsramesh1990)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/jsramesh1990)
 
 </div>
 
 ---
 
-## 🏆 Epic Achievements
+## Open To
 
-<div align="center">
-
-| Badge | Title | Lore |
-|:-----:|:------|:-----|
-| 🦈 **Pull Shark x2** | *The Contributor's Mark* | Two successful PRs merged into the mothership |
-| ⚡ **Quickdraw** | *Fastest PR in the West* | Lightning-fast pull request responses |
-
-</div>
+- 🤝 **Freelance Embedded Projects**
+- 🔬 **Open-source Collaboration**
+- 💼 **Embedded/Linux Engineering Opportunities**
 
 ---
 
-## 📡 Summoning Rituals
+## Connect
 
-<div align="center">
-
-| Method | Portal |
-|:-------|:-------|
-| 📧 **Ethereal Mail** | `js.ramesh1990@gmail.com` |
-| 🔗 **LinkedIn Runes** | [Sebastian Ramesh](https://linkedin.com/in/sebastian-ramesh-b84911327) |
-| 🐙 **GitHub Portal** | [@jsramesh1990](https://github.com/jsramesh1990) |
-
-</div>
-
----
-
-## 📜 The Sacred Scroll of Contributions
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                    HEAT MAP OF DIGITAL CONQUESTS                    │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   May 2026   ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  20%  │
-│   Apr 2026   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  25%  │
-│   Mar 2026   ████████████████████████████████████████████████  100%  │
-│   Feb 2026   ████████████████████████████████████████████████  100%  │
-│   Jan 2026   ████████████████████████████████████████████████  100%  │
-│                                                                     │
-│   📊 Total: 609 contributions in the last year                      │
-│   💀 "609 souls saved from segmentation faults this year"           │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## ⚡ Random Encounter Quote
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   "Segmentation fault: Your code has encountered a dragon.         │
-│    Roll for initiative, roll for debugger."                         │
-│                                                                     │
-│                              -- Fortune from the Embedded Realms    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🎵 The Developer's Anthem
-
-```bash
-while [ true ]; do
-    echo "brew install coffee"
-    echo "git commit -am 'progress'"
-    echo "make debug"
-    echo "sleep 2"
-    echo "# Still debugging..."
-done
-```
+| Platform | Link |
+|:---------|:-----|
+| 📧 Email | [js.ramesh1990@gmail.com](mailto:js.ramesh1990@gmail.com) |
+| 🔗 LinkedIn | [Sebastian Ramesh](https://linkedin.com/in/sebastian-ramesh-b84911327) |
+| 🐙 GitHub | [@jsramesh1990](https://github.com/jsramesh1990) |
 
 ---
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   May your stack never overflow,                                    │
-│   your pointers never stray,                                        │
-│   and your kernel never panic.                                      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
-
-### *⚔️ Fork with honor • Star with valor • Code with courage ⚔️*
-
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jsramesh1990&style=for-the-badge&color=0a0f0f&label=Wanderers+who+entered+this+realm)
+*Passionate about building robust embedded solutions from silicon to software.*
 
-**Made with ☕, 🐧, and an unreasonable amount of caffeine**
+[![Profile Views](https://komarev.com/ghpvc/?username=jsramesh1990&style=flat-square&color=2ea44f)](https://github.com/jsramesh1990)
 
 </div>
 ```
