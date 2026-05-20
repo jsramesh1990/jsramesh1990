@@ -5,7 +5,7 @@
 
 ### Embedded Software Engineer
 
-[![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?style=for-the-badge&logo=github&labelColor=0d1117&color=2ea44f)](https://github.com/jsramesh1990)
+[![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/jsramesh1990)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ramesh-b84911327)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:js.ramesh1990@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
