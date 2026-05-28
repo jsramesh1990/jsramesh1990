@@ -15,14 +15,6 @@
 
 ---
 
-##  GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jsramesh1990&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/jsramesh1990)
-
-</div>
-
----
-
 ## About Me
 
 I'm an **Embedded Software Engineer** specializing in Linux-based platforms, board bring-up, and hardware-software integration. With extensive experience across the embedded stack - from bootloaders to application layer - I build efficient, scalable, and reliable embedded systems.
