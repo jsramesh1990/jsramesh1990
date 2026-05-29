@@ -111,16 +111,6 @@ I'm an **Embedded Software Engineer** specializing in Linux-based platforms, boa
 
 ---
 
-##  Contribution Activity
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jsramesh1990&theme=github-dark&hide_border=true&bg_color=0d1117&color=2ea44f&line=2ea44f&point=ffffff&area=true&area_color=2ea44f)](https://github.com/jsramesh1990)
-
-</div>
-
----
-
 ##  Badges & Achievements
 
 <div align="center">
