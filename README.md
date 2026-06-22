@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Sebastian Ramesh
+# Sebastian S Ramesh
 
 ### Embedded Software Engineer
 
