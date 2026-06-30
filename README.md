@@ -1,4 +1,4 @@
-# Sebastian S Ramesh
+# Sebastian Ramesh
 **Embedded Software Engineer**
 
 ---
