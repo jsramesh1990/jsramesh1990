@@ -39,7 +39,6 @@ GitHub Actions · Jenkins · CMake · Google Test
 
 ## Connect With Me
 
-- [GitHub](https://github.com/jsramesh1990)
 - [LinkedIn](https://linkedin.com/in/sebastian-ramesh-b84911327)
 - [Email](mailto:js.ramesh1990@gmail.com)
 
