@@ -17,7 +17,7 @@ C · C++ · Python · Bash · Make · Assembly
 Yocto · U-Boot · Kernel · Android · Device Drivers
 
 **Microcontrollers & SoCs**  
-ARM · ESP32 · Raspberry Pi · Arduino · Qualcomm · NXP
+ARM · Raspberry Pi · Arduino · Qualcomm · NXP
 
 **Communication Protocols**  
 I2C · SPI · UART · CAN · USB · TCP/IP
