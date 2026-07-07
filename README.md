@@ -30,18 +30,3 @@ GitHub Actions · Jenkins · CMake · Google Test
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&theme=dark)
-
----
-
-## Connect With Me
-
-- [LinkedIn](https://linkedin.com/in/sebastian-ramesh-b84911327)
-- [Email](mailto:js.ramesh1990@gmail.com)
-
----
-
-*"Building robust embedded solutions from silicon to software"*
