@@ -17,16 +17,16 @@ C · C++ · Python · Bash · Make · Assembly
 Yocto · U-Boot · Kernel · Android · Device Drivers
 
 **Microcontrollers & SoCs**  
-ARM · Raspberry Pi · Arduino · Qualcomm · NXP
+ARM · Raspberry Pi · Qualcomm · NXP
 
 **Communication Protocols**  
 I2C · SPI · UART · CAN · USB · TCP/IP
 
 **Development Tools**  
-Git · GDB · Valgrind · Docker · QEMU · JTAG · Oscilloscope · Logic Analyzer
+Git · GDB · Valgrind · Docker · JTAG 
 
 **CI/CD & Testing**  
-GitHub Actions · Jenkins · CMake · Google Test
+GitHub Actions · CMake 
 
 ---
 
