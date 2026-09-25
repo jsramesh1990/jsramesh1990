@@ -45,7 +45,7 @@
 <!-- About Me -->
 ##  About Me
 
-I am an **Embedded Software Engineer** specializing in **Linux-based platforms**, **board bring-up**, and **hardware-software integration**. My expertise spans the entire embedded stack—from **bootloaders** and **kernel drivers** to **application-layer development**.
+I am an **Embedded Software Engineer** specializing in **Linux-based platforms**, **board bring-up**, and **hardware-software integration**. My expertise spans the entire embedded stack — from **bootloaders** and **kernel drivers** to **application-layer development**.
 
 I thrive on solving complex problems at the intersection of hardware and software, optimizing systems for **performance**, **power efficiency**, and **reliability**. My recent work focuses on **Edge AI**, **IoT**, and **industrial automation**, leveraging platforms like **STM32MP1**, **Rockchip RK3568**, and **Raspberry Pi**.
 
