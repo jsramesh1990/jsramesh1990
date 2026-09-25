@@ -1,7 +1,50 @@
 <!-- Header -->
 <div align="center">
 
+
+
+
 # Sebastian Ramesh (jsramesh1990)
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GRAPHICS SECTION – ONLY IN THE NAME/HEADER PART               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <!-- Waving header with your name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=Sebastian%20Ramesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Software%20Engineer%20·%20Linux%20BSP%20·%20Yocto%20·%20Edge%20AI&descAlignY=58&descSize=14" width="100%"/>
+
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Bootloader+→+Kernel+→+RootFS+→+Application;Yocto+%7C+U-Boot+%7C+Device+Drivers+%7C+Android+BSP;Edge+AI+%7C+IoT+%7C+Industrial+Automation;C+·+C%2B%2B+·+Python+·+Bash+·+Assembly" alt="Typing SVG" />
+  </a>
+
+  <!-- LED Blink Animation – save the SVG below as led_blink.svg in your repo -->
+  <img src="led_blink.svg" width="100%" alt="LED Blink Animation" />
+
+  <!-- Social badges -->
+  <br/>
+  <a href="https://www.linkedin.com/in/sebastian-ramesh-b84911327">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/jsramesh1990?tab=followers">
+    <img src="https://img.shields.io/github/followers/jsramesh1990?label=Followers&style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/jsramesh1990">
+    <img src="https://img.shields.io/github/stars/jsramesh1990?label=Stars&style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=jsramesh1990&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- REST OF README – PLAIN MARKDOWN, NO EXTRA GRAPHICS            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+---
+
 
 ### Embedded Software Engineer · Linux BSP & Device Drivers · Yocto & Android 
 
