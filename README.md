@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Sebastian Ramesh (jsramesh1990)
+# (jsramesh1990)
 
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -39,17 +39,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- REST OF README – PLAIN MARKDOWN, NO EXTRA GRAPHICS            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
----
-
-### Embedded Software Engineer · Linux BSP & Device Drivers · Yocto & Android 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-ramesh-b84911327)
-[![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?label=Followers&style=for-the-badge&logo=github)](https://github.com/jsramesh1990?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/jsramesh1990?label=Stars&style=for-the-badge&logo=github)](https://github.com/jsramesh1990)
-[![Profile Views](https://komarev.com/ghpvc/?username=jsramesh1990&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/jsramesh1990)
-
-</div>
 
 ---
 
