@@ -3,7 +3,7 @@
 
 # Sebastian Ramesh (jsramesh1990)
 
-### Embedded Software Engineer · Linux BSP & Device Drivers · Yocto & Android · Edge AI & IoT
+### Embedded Software Engineer · Linux BSP & Device Drivers · Yocto & Android 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sebastian-ramesh-b84911327)
 [![GitHub followers](https://img.shields.io/github/followers/jsramesh1990?label=Followers&style=for-the-badge&logo=github)](https://github.com/jsramesh1990?tab=followers)
@@ -15,21 +15,21 @@
 ---
 
 <!-- About Me -->
-## 🧠 About Me
+##  About Me
 
 I am an **Embedded Software Engineer** specializing in **Linux-based platforms**, **board bring-up**, and **hardware-software integration**. My expertise spans the entire embedded stack—from **bootloaders** and **kernel drivers** to **application-layer development**.
 
 I thrive on solving complex problems at the intersection of hardware and software, optimizing systems for **performance**, **power efficiency**, and **reliability**. My recent work focuses on **Edge AI**, **IoT**, and **industrial automation**, leveraging platforms like **STM32MP1**, **Rockchip RK3568**, and **Raspberry Pi**.
 
-- 🔭 **Currently working on**: AI-powered CCTV systems (Orange Pi 6 Plus) and energy-efficient sensor platforms.
-- 🌱 **Exploring**: Rust for embedded, Zephyr RTOS, and advanced NPU memory management.
-- 💬 **Ask me about**: Yocto, U-Boot, Linux kernel drivers, I2C/SPI/CAN, or anything embedded!
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/sebastian-ramesh-b84911327)
+-  **Currently working on**: AI-powered CCTV systems (Orange Pi 6 Plus) and energy-efficient sensor platforms.
+-  **Exploring**: Rust for embedded, Zephyr RTOS, and advanced NPU memory management.
+-  **Ask me about**: Yocto, U-Boot, Linux kernel drivers, I2C/SPI/CAN, or anything embedded!
+-  **How to reach me**: [LinkedIn](https://www.linkedin.com/in/sebastian-ramesh-b84911327)
 
 ---
 
 <!-- Technical Skills -->
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | Category | Technologies |
 |----------|--------------|
@@ -42,12 +42,12 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- Featured Projects -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐟 Aquarium Tank Monitoring</h3>
+      <h3> Aquarium Tank Monitoring</h3>
       <p><em>IoT aquarium monitoring with ESP32</em></p>
       <p>An advanced <b>IoT aquarium monitoring and control system</b> built on <b>ESP32/Arduino</b>. Features real-time water parameter sensing (pH, temperature, turbidity), automated feeding, and cloud connectivity.</p>
       <p>
@@ -58,7 +58,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
       <a href="https://github.com/jsramesh1990/Aquarium_Tank_Monitoring">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ STM32MP157 Discovery</h3>
+      <h3> STM32MP157 Discovery</h3>
       <p><em>Energy-efficient industrial sensor platform</em></p>
       <p>A <b>production-grade industrial sensor platform</b> leveraging the <b>STM32MP157</b> heterogeneous multi-core architecture. Integrates energy harvesting, low-power modes, and real-time control.</p>
       <p>
@@ -71,7 +71,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐝 BeagleBone-Black</h3>
+      <h3> BeagleBone-Black</h3>
       <p><em>Custom Linux kernel drivers</em></p>
       <p>A collection of <b>custom Linux kernel drivers</b> and <b>subsystem integrations</b> for the <b>BeagleBone Black</b>. Demonstrates deep understanding of kernel modules and device tree overlays.</p>
       <p>
@@ -81,7 +81,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
       <a href="https://github.com/jsramesh1990/BeagleBone-Black">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>📹 Orange Pi AI CCTV</h3>
+      <h3> Orange Pi AI CCTV</h3>
       <p><em>Production-ready AI CCTV system</em></p>
       <p>A <b>production-ready AI CCTV system</b> built for the <b>Orange Pi 6 Plus</b>. Features real-time object detection, facial recognition, and edge inference using NPU acceleration.</p>
       <p>
@@ -94,7 +94,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔒 SmartLock-Pro</h3>
+      <h3> SmartLock-Pro</h3>
       <p><em>ESP32 IoT Door Lock System</em></p>
       <p>A <b>secure IoT door lock system</b> using <b>ESP32</b>. Supports multiple authentication methods (RFID, keypad, smartphone), cloud logging, and OTA firmware updates.</p>
       <p>
@@ -105,7 +105,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
       <a href="https://github.com/jsramesh1990/SmartLock-Pro_ESP32-IoT-Door-Lock-System">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 RK3568 DDR Memory Manager</h3>
+      <h3> RK3568 DDR Memory Manager</h3>
       <p><em>Memory management for Rockchip RK3568</em></p>
       <p>A <b>comprehensive memory management solution</b> for <b>Rockchip RK3568</b>-based systems. Provides optimized DDR configuration, NPU memory allocation, and runtime memory profiling.</p>
       <p>
@@ -121,7 +121,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- GitHub Analytics -->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -134,7 +134,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 
 </div>
 
-### 🏆 GitHub Trophies
+###  GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=jsramesh1990&theme=radical&no-frame=true&row=1&column=7" />
@@ -143,7 +143,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- Contribution Graph -->
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jsramesh1990&theme=radical&hide_border=true&area=true" width="100%" />
@@ -152,7 +152,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- Achievements -->
-## 🏅 Achievements
+##  Achievements
 
 - **Pull Shark x2** – Merged multiple pull requests.
 - **Quickdraw** – Fast issue/PR resolution.
@@ -161,7 +161,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- Value Proposition -->
-## 🎯 What I Bring to the Table
+##  What I Bring to the Table
 
 - **End-to-End Ownership**: From bootloader to application, I deliver complete embedded solutions.
 - **Hardware-Software Co-Design**: Deep understanding of schematics, datasheets, and low-level debugging.
@@ -171,7 +171,7 @@ I thrive on solving complex problems at the intersection of hardware and softwar
 ---
 
 <!-- Collaboration -->
-## 🤝 Let's Collaborate!
+##  Let's Collaborate!
 
 I'm always open to collaborating on **open-source embedded projects**, **consulting**, or **full-time opportunities**. If you're building something innovative in **Linux BSP**, **Edge AI**, or **IoT**, let's connect!
 
