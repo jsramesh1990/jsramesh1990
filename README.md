@@ -1,9 +1,6 @@
 <!-- Header -->
 <div align="center">
 
-
-
-
 # Sebastian Ramesh (jsramesh1990)
 
 
@@ -44,7 +41,6 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ---
-
 
 ### Embedded Software Engineer · Linux BSP & Device Drivers · Yocto & Android 
 
