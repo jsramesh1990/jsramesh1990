@@ -21,50 +21,43 @@
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="16%" align="center">
 
-### Embedded Linux
-
-Linux
-Yocto
-U-Boot
-Kernel Drivers
-Device Tree
-BSP Development
+**Device Drivers**
 
 </td>
+<td width="16%" align="center">
 
-<td width="33%" align="center">
-
-### Edge Computing
-
-Edge AI
-NPU Acceleration
-Computer Vision
-IoT
-Industrial Systems
-Performance Optimization
+**U-Boot**
 
 </td>
+<td width="16%" align="center">
 
-<td width="33%" align="center">
+**Linux Kernel**
 
-### Hardware
+</td>
+<td width="16%" align="center">
 
-ARM
-STM32
-Rockchip
-Raspberry Pi
-Qualcomm
-NXP
+**Yocto**
+
+</td>
+<td width="16%" align="center">
+
+**Android**
+
+</td>
+<td width="20%" align="center">
+
+**Embedded Linux**
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-I work across the embedded stack, from bootloaders and board bring-up to Linux drivers, system software and edge applications.
+Embedded Software Engineer specializing in Linux-based platforms, BSP development, board bring-up, and hardware-software integration.
 </p>
+
 
 ---
 
