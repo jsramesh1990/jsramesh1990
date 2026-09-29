@@ -15,15 +15,15 @@
 
 ---
 
-## ⚡ About
+⚡ About
 
-Embedded Software Engineer specializing in:
+Embedded Software Engineer focused on:
 
-`Linux` · `Yocto` · `U-Boot` · `Kernel Drivers` · `BSP` · `Edge AI` · `IoT`
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Linux+%7C+Yocto+%7C+U-Boot;Kernel+Drivers+%7C+BSP+Development;Edge+AI+%7C+IoT+%7C+Embedded+Systems;C+%7C+C%2B%2B+%7C+Python" alt="Embedded technologies"> </p>
 
 Currently exploring:
 
-`Rust` · `Zephyr RTOS` · `NPU Memory Management`
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=500&lines=Rust+for+Embedded;Zephyr+RTOS;NPU+Memory+Management;Edge+AI+Optimization" alt="Currently exploring"> </p>
 
 ---
 
