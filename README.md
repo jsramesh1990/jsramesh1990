@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Embedded Linux · Board Bring-up · Kernel Drivers · Edge Computing
+  Embedded Linux · Board Bring-up · Kernel Drivers
 </p>
 
 ---
