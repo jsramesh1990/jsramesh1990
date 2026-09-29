@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  Embedded Linux • Board Bring-up • Kernel Drivers • Edge Computing
+  Embedded Linux · Board Bring-up · Kernel Drivers · Edge Computing
 </p>
 
 ---
@@ -21,43 +21,19 @@
 
 <table>
 <tr>
-<td width="16%" align="center">
-
-**Device Drivers**
-
-</td>
-<td width="16%" align="center">
-
-**U-Boot**
-
-</td>
-<td width="16%" align="center">
-
-**Linux Kernel**
-
-</td>
-<td width="16%" align="center">
-
-**Yocto**
-
-</td>
-<td width="16%" align="center">
-
-**Android**
-
-</td>
-<td width="20%" align="center">
-
-**Embedded Linux**
-
-</td>
+<td width="16%" align="center"><b>Device Drivers</b></td>
+<td width="16%" align="center"><b>U-Boot</b></td>
+<td width="16%" align="center"><b>Linux Kernel</b></td>
+<td width="16%" align="center"><b>Yocto</b></td>
+<td width="16%" align="center"><b>Android</b></td>
+<td width="20%" align="center"><b>Embedded Linux</b></td>
 </tr>
 </table>
 
 <p align="center">
-Embedded Software Engineer specializing in Linux-based platforms, BSP development, board bring-up, and hardware-software integration.
+Embedded Software Engineer specializing in Linux-based platforms, BSP development,
+board bring-up, and hardware-software integration.
 </p>
-
 
 ---
 
@@ -65,7 +41,7 @@ Embedded Software Engineer specializing in Linux-based platforms, BSP developmen
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Languages
 
@@ -87,7 +63,7 @@ Embedded Software Engineer specializing in Linux-based platforms, BSP developmen
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Platforms
 
@@ -160,7 +136,7 @@ Edge AI Optimization
 `ESP32` · `C++` · `IoT`
 
 <a href="https://github.com/jsramesh1990/Aquarium_Tank_Monitoring">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -172,7 +148,7 @@ Edge AI Optimization
 `STM32MP1` · `Linux` · `C`
 
 <a href="https://github.com/jsramesh1990/STM32MP157_Discovery">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -186,7 +162,7 @@ Edge AI Optimization
 `Linux` · `Kernel Drivers`
 
 <a href="https://github.com/jsramesh1990/BeagleBone-Black">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -198,7 +174,7 @@ Edge AI Optimization
 `RK3568` · `C`
 
 <a href="https://github.com/jsramesh1990/RK3568-DDR-Memory-Manager">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -212,7 +188,7 @@ Edge AI Optimization
 `Edge AI` · `NPU` · `Python`
 
 <a href="https://github.com/jsramesh1990/Orange_Pi_AI_CCTV">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -224,7 +200,7 @@ Edge AI Optimization
 `ESP32` · `C++` · `IoT`
 
 <a href="https://github.com/jsramesh1990/SmartLock-Pro_ESP32-IoT-Door-Lock-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View repository">
 </a>
 
 </td>
@@ -237,9 +213,9 @@ Edge AI Optimization
 
 <table>
 <tr>
-<td align="center">
+<td width="25%" align="center">
 
-**Processors**
+<b>Processors</b>
 
 ARM
 Cortex-A
@@ -248,9 +224,9 @@ Rockchip SoCs
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-**Operating Systems**
+<b>Operating Systems</b>
 
 Linux
 Android
@@ -259,9 +235,9 @@ Zephyr
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-**Build Systems**
+<b>Build Systems</b>
 
 Yocto
 CMake
@@ -270,9 +246,9 @@ Docker
 
 </td>
 
-<td align="center">
+<td width="25%" align="center">
 
-**Debugging**
+<b>Debugging</b>
 
 GDB
 JTAG
@@ -323,26 +299,10 @@ Kernel Debugging
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-Open Source
-
-</td>
-<td align="center" width="25%">
-
-Embedded Projects
-
-</td>
-<td align="center" width="25%">
-
-Consulting
-
-</td>
-<td align="center" width="25%">
-
-Engineering Opportunities
-
-</td>
+<td align="center" width="25%">Open Source</td>
+<td align="center" width="25%">Embedded Projects</td>
+<td align="center" width="25%">Consulting</td>
+<td align="center" width="25%">Engineering Opportunities</td>
 </tr>
 </table>
 
