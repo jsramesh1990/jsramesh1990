@@ -1,128 +1,119 @@
 # Sebastian Ramesh
 
-### Embedded Software Engineer · Linux BSP · Edge AI · IoT
+### Embedded Software Engineer | Linux | BSP | Edge AI | IoT
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Yocto-2E7D32?style=flat-square&logo=linux&logoColor=white" alt="Yocto">
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM">
+<p align="center">
+  <a href="https://github.com/jsramesh1990">
+    <img src="https://img.shields.io/badge/GitHub-jsramesh1990-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sebastian-ramesh-b84911327/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
-> Building software close to the hardware — from **bootloaders and kernels to drivers, BSPs and edge applications**.
+<p align="center">
+  Embedded Linux • Board Bring-up • Kernel Drivers • Edge Computing
+</p>
 
 ---
 
-⚡ About
-
-Embedded Software Engineer focused on:
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=Linux+%7C+Yocto+%7C+U-Boot;Kernel+Drivers+%7C+BSP+Development;Edge+AI+%7C+IoT+%7C+Embedded+Systems;C+%7C+C%2B%2B+%7C+Python" alt="Embedded technologies"> </p>
-
-Currently exploring:
-
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=500&lines=Rust+for+Embedded;Zephyr+RTOS;NPU+Memory+Management;Edge+AI+Optimization" alt="Currently exploring"> </p>
-
----
-
-## 🧩 Embedded Stack
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                    APPLICATION                         │
-│             C · C++ · Python · Edge AI                │
-├─────────────────────────────────────────────────────────┤
-│                 LINUX / ANDROID                        │
-│          Kernel · Drivers · Device Tree                │
-├─────────────────────────────────────────────────────────┤
-│                  BSP / BOOT                            │
-│             Yocto · U-Boot · Buildroot                 │
-├─────────────────────────────────────────────────────────┤
-│                 HARDWARE                               │
-│       ARM · STM32 · Rockchip · Raspberry Pi            │
-├─────────────────────────────────────────────────────────┤
-│                INTERFACES                              │
-│       I2C · SPI · UART · CAN · USB · GPIO              │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🛠️ Skills
-
-|                    | Technologies                                           |
-| ------------------ | ------------------------------------------------------ |
-| **Languages**      | C · C++ · Python · Bash · Assembly                     |
-| **Embedded Linux** | Yocto · U-Boot · Linux Kernel · Android                |
-| **RTOS**           | FreeRTOS · Zephyr                                      |
-| **Hardware**       | ARM · STM32 · Raspberry Pi · Rockchip · Qualcomm · NXP |
-| **Interfaces**     | I2C · SPI · UART · CAN · USB · TCP/IP                  |
-| **Debugging**      | GDB · JTAG · Valgrind                                  |
-| **Build & CI**     | Make · CMake · Docker · GitHub Actions                 |
-
----
-
-## 🚀 Projects
+## About
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-### 🐟
+### Embedded Linux
 
-**Aquarium Tank Monitoring**
-
-`ESP32` · `IoT`
-
-</td>
-<td align="center" width="33%">
-
-### ⚡
-
-**STM32MP157 Discovery**
-
-`STM32MP1` · `Linux`
+Linux
+Yocto
+U-Boot
+Kernel Drivers
+Device Tree
+BSP Development
 
 </td>
-<td align="center" width="33%">
 
-### 🐧
+<td width="33%" align="center">
 
-**BeagleBone Black**
+### Edge Computing
 
-`Linux` · `Drivers`
+Edge AI
+NPU Acceleration
+Computer Vision
+IoT
+Industrial Systems
+Performance Optimization
+
+</td>
+
+<td width="33%" align="center">
+
+### Hardware
+
+ARM
+STM32
+Rockchip
+Raspberry Pi
+Qualcomm
+NXP
 
 </td>
 </tr>
+</table>
 
+<p align="center">
+I work across the embedded stack, from bootloaders and board bring-up to Linux drivers, system software and edge applications.
+</p>
+
+---
+
+## Technical Stack
+
+<table>
 <tr>
-<td align="center">
+<td width="50%">
 
-### 🧠
+### Languages
 
-**RK3568 DDR Manager**
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-525252?style=flat-square">
+</p>
 
-`Rockchip` · `C`
+### Embedded Linux
+
+`Linux` · `Yocto` · `U-Boot` · `Device Tree` · `Android`
+
+### RTOS
+
+`FreeRTOS` · `Zephyr`
 
 </td>
-<td align="center">
 
-### 📷
+<td width="50%">
 
-**Orange Pi AI CCTV**
+### Platforms
 
-`Edge AI` · `NPU`
+<p>
+<img src="https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white">
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/Rockchip-CC0000?style=flat-square">
+</p>
 
-</td>
-<td align="center">
+`Qualcomm` · `NXP` · `ESP32`
 
-### 🔐
+### Interfaces
 
-**SmartLock Pro**
+`I2C` · `SPI` · `UART` · `CAN` · `USB` · `GPIO` · `TCP/IP`
 
-`ESP32` · `IoT`
+### Development
+
+`Git` · `GDB` · `JTAG` · `Valgrind` · `Docker` · `CMake` · `GitHub Actions`
 
 </td>
 </tr>
@@ -130,72 +121,251 @@ Currently exploring:
 
 ---
 
-## 💻 Platforms
+## Current Focus
 
-```text
-ARM
-├── STM32 / STM32MP1
-├── Rockchip RK3568
-├── Raspberry Pi
-├── Qualcomm
-└── NXP
+<table>
+<tr>
+<td width="33%" align="center">
 
-OS / Firmware
-├── Linux
-├── Android
-├── Yocto
-├── FreeRTOS
-└── Zephyr
-```
+### Rust
+
+Embedded Rust
+Systems Programming
+
+</td>
+
+<td width="33%" align="center">
+
+### Zephyr
+
+RTOS
+Embedded Development
+
+</td>
+
+<td width="33%" align="center">
+
+### NPU
+
+Memory Management
+Edge AI Optimization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub
+## Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Aquarium Tank Monitoring
+
+`ESP32` · `C++` · `IoT`
+
+<a href="https://github.com/jsramesh1990/Aquarium_Tank_Monitoring">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### STM32MP157 Discovery
+
+`STM32MP1` · `Linux` · `C`
+
+<a href="https://github.com/jsramesh1990/STM32MP157_Discovery">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### BeagleBone Black
+
+`Linux` · `Kernel Drivers`
+
+<a href="https://github.com/jsramesh1990/BeagleBone-Black">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center">
+
+### RK3568 DDR Memory Manager
+
+`RK3568` · `C`
+
+<a href="https://github.com/jsramesh1990/RK3568-DDR-Memory-Manager">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### Orange Pi AI CCTV
+
+`Edge AI` · `NPU` · `Python`
+
+<a href="https://github.com/jsramesh1990/Orange_Pi_AI_CCTV">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="center">
+
+### SmartLock Pro
+
+`ESP32` · `C++` · `IoT`
+
+<a href="https://github.com/jsramesh1990/SmartLock-Pro_ESP32-IoT-Door-Lock-System">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Platforms & Technologies
+
+<table>
+<tr>
+<td align="center">
+
+**Processors**
+
+ARM
+Cortex-A
+Cortex-M
+Rockchip SoCs
+
+</td>
+
+<td align="center">
+
+**Operating Systems**
+
+Linux
+Android
+FreeRTOS
+Zephyr
+
+</td>
+
+<td align="center">
+
+**Build Systems**
+
+Yocto
+CMake
+Make
+Docker
+
+</td>
+
+<td align="center">
+
+**Debugging**
+
+GDB
+JTAG
+Valgrind
+Kernel Debugging
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Areas
+
+<table>
+<tr>
+<td align="center" width="20%">Board Bring-up</td>
+<td align="center" width="20%">Linux BSP</td>
+<td align="center" width="20%">Kernel Drivers</td>
+<td align="center" width="20%">Device Tree</td>
+<td align="center" width="20%">Bootloaders</td>
+</tr>
+<tr>
+<td align="center">Embedded C/C++</td>
+<td align="center">Edge AI</td>
+<td align="center">IoT</td>
+<td align="center">Power Optimization</td>
+<td align="center">Performance</td>
+</tr>
+</table>
+
+---
+
+## GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&hide_border=true&rank_icon=github" height="160" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&hide_border=true" height="160" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&hide_border=true" height="165" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsramesh1990&hide_border=true" height="165" alt="GitHub contribution streak">
 </p>
 
 ---
 
-## 🔧 What I Work On
+## Open To
 
-`Board Bring-up`
+<table>
+<tr>
+<td align="center" width="25%">
 
-`Linux BSP`
+Open Source
 
-`Kernel Drivers`
+</td>
+<td align="center" width="25%">
 
-`Device Tree`
+Embedded Projects
 
-`Embedded C/C++`
+</td>
+<td align="center" width="25%">
 
-`Edge AI`
+Consulting
 
-`IoT`
+</td>
+<td align="center" width="25%">
 
-`Performance Optimization`
+Engineering Opportunities
 
-`Power Optimization`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## Connect
 
-Open to collaboration around:
-
-**Embedded Linux · BSP · Edge AI · IoT · Kernel Development · Industrial Automation**
-
-<p>
+<p align="center">
   <a href="https://github.com/jsramesh1990">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-jsramesh1990-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/sebastian-ramesh-b84911327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Sebastian%20Ramesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
-> **Software meets hardware. That's where I build.**
-
-<sub>© 2026 Sebastian Ramesh</sub>
+<p align="center">
+  <sub>Embedded systems — where software meets the physical world.</sub>
+</p>
