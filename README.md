@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm an **Embedded Software Engineer** passionate about developing low-level software and building reliable embedded systems.
 
@@ -40,7 +40,7 @@ I enjoy understanding how hardware and software interact, debugging complex syst
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p>
@@ -106,7 +106,7 @@ I enjoy understanding how hardware and software interact, debugging complex syst
 
 ---
 
-## 🏗️ Embedded Linux Architecture
+##  Embedded Linux Architecture
 
 My primary engineering interest is understanding and developing the complete embedded software stack.
 
@@ -140,7 +140,7 @@ My primary engineering interest is understanding and developing the complete emb
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. Qualcomm RB5 Multi-Camera Platform
 
@@ -200,7 +200,7 @@ My primary engineering interest is understanding and developing the complete emb
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight"/>
@@ -213,7 +213,7 @@ My primary engineering interest is understanding and developing the complete emb
 
 ---
 
-## 🎯 Current Technical Focus
+##  Current Technical Focus
 
 | Domain | Focus Areas |
 |---|---|
@@ -226,7 +226,7 @@ My primary engineering interest is understanding and developing the complete emb
 
 ---
 
-## 📚 Learning & Exploration
+##  Learning & Exploration
 
 - Rust for Embedded and Linux Systems
 - Zephyr RTOS
