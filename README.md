@@ -1,325 +1,279 @@
-# 👋 Hi, I'm Sebastian Ramesh
+# Sebastian Ramesh
 
-### Embedded Software Engineer | Embedded Linux | BSP | Linux Kernel | Device Drivers | Edge AI
-
-<p align="center">
-  <a href="https://github.com/jsramesh1990">
-    <img src="https://img.shields.io/badge/GitHub-jsramesh1990-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sebastian-ramesh-b84911327/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### Embedded Software Engineer | Embedded Linux | BSP | Linux Kernel | Device Drivers
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsramesh1990&style=for-the-badge&color=blue" alt="Profile views" />
+  <a href="https://github.com/jsramesh1990">GitHub</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sebastian-ramesh-b84911327/">LinkedIn</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## Profile
 
-I'm an **Embedded Software Engineer** focused on building and debugging software close to the hardware.
+Embedded Software Engineer focused on **Embedded Linux, BSP development, Linux Kernel, device drivers, board bring-up, and hardware-software integration**.
 
-My core interests are:
+Hands-on experience across the embedded software stack, from **bootloader and Device Tree through Linux Kernel, drivers, middleware, HAL, networking, multimedia, and application layers**.
 
-- 🐧 **Embedded Linux & Linux Kernel**
-- 🔧 **BSP Development & Board Bring-up**
-- 🧩 **Device Driver Development**
-- 🚀 **U-Boot & Boot Flow**
-- 🌳 **Device Tree & Hardware Integration**
-- 📦 **Yocto / Embedded Linux Build Systems**
-- 📱 **Android BSP & HAL Integration**
-- 🌐 **Ethernet / TCP-IP / Networking**
-- 📷 **Camera & Multimedia Integration**
-- 🤖 **Edge AI / NPU**
-- ⚡ **Performance & Memory Optimization**
+Primary technical interests include:
 
-> **I enjoy working at the boundary where software meets hardware.**
-
----
-
-# 🛠️ Technical Skills
-
-### 💻 Programming
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
-</p>
-
-### 🐧 Embedded Linux
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Yocto-2B2B2B?style=for-the-badge&logo=yocto&logoColor=white"/>
-<img src="https://img.shields.io/badge/U--Boot-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Device%20Tree-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### 🔩 Kernel & Drivers
-
-`Linux Kernel` · `Character Drivers` · `Platform Drivers` · `Device Tree` · `GPIO` · `I2C` · `SPI` · `UART` · `USB` · `Interrupts` · `DMA` · `Memory Management` · `V4L2`
-
-### 🌐 Networking
-
-`Ethernet` · `TCP/IP` · `UDP` · `Socket Programming` · `DHCP` · `VLAN` · `MAC/PHY` · `MDIO` · `RGMII` · `SGMII` · `TCP/IP Debugging` · `Wireshark` · `tcpdump` · `iperf3`
-
-### 📷 Multimedia
-
-`Camera Drivers` · `V4L2` · `MIPI CSI-2` · `CamX` · `GStreamer` · `ISP Integration` · `Sensor Integration`
-
-### 🧠 Edge AI
-
-`NPU` · `Memory Management` · `Inference Optimization` · `Edge AI` · `Computer Vision`
+- Embedded Linux
+- Linux Kernel
+- BSP Development
+- Board Bring-up
+- Device Driver Development
+- U-Boot and Boot Flow
+- Device Tree
+- Yocto
+- Android BSP
+- Ethernet and TCP/IP
+- Camera and Multimedia
+- Hardware-Software Integration
+- Edge AI and Embedded Systems
 
 ---
 
-# 🧰 Tools & Development
+## Technical Skills
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDB-FF0000?style=for-the-badge&logo=gnu&logoColor=white"/>
-<img src="https://img.shields.io/badge/JTAG-333333?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+### Programming Languages
 
----
+`C` `C++` `Python` `Bash` `Assembly`
 
-# ⚙️ Platforms
+### Embedded Linux
 
-| Platform | Focus |
-|---|---|
-| 🟦 **Qualcomm** | BSP · Android · Camera · Kernel · Drivers |
-| 🟩 **NXP** | Embedded Linux · BSP · Hardware Integration |
-| 🟥 **Rockchip** | Linux · Memory · Edge AI |
-| 🟦 **STM32** | Embedded C · Linux · RTOS |
-| 🟨 **ESP32** | IoT · C/C++ · Embedded Systems |
-| 🍓 **Raspberry Pi** | Linux · Drivers · Edge Computing |
+`Linux` `Yocto` `U-Boot` `Device Tree` `Android` `Buildroot`
 
----
+### Linux Kernel & Drivers
 
-# 🔥 Featured Projects
+`Linux Kernel` `Character Drivers` `Platform Drivers` `Device Drivers`  
+`Interrupts` `DMA` `Memory Management` `GPIO` `I2C` `SPI` `UART` `USB` `V4L2`
 
-## 📷 Qualcomm Multi-Camera / Embedded Vision
+### Networking
 
-**Qualcomm RB5**
+`Ethernet` `TCP/IP` `UDP` `Socket Programming` `DHCP`  
+`MAC/PHY` `MDIO` `RGMII` `SGMII` `VLAN`  
+`tcpdump` `Wireshark` `iperf3`
 
-`Yocto` · `Linux Kernel` · `Camera Drivers` · `CamX` · `V4L2` · `MIPI CSI-2` · `GStreamer`
+### Camera & Multimedia
 
-Work involving camera sensor integration, BSP customization, Linux kernel configuration, camera pipeline integration and system-level validation.
+`Camera Drivers` `V4L2` `MIPI CSI-2` `CamX` `GStreamer` `ISP Integration` `Sensor Integration`
+
+### Platforms
+
+`Qualcomm` `NXP` `Rockchip` `STM32` `ESP32` `Raspberry Pi`
+
+### Development & Debugging
+
+`Git` `GDB` `JTAG` `CMake` `Make` `Docker` `Valgrind`  
+`Kernel Debugging` `System Debugging` `Performance Analysis`
 
 ---
 
-## 🤖 Orange Pi AI CCTV
+# Engineering Focus
 
-**Edge AI + NPU**
-
-`Python` · `NPU` · `Computer Vision` · `Edge AI`
-
-AI-based embedded vision project exploring real-time processing and hardware-accelerated inference on edge devices.
-
-<a href="https://github.com/jsramesh1990/Orange_Pi_AI_CCTV">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🧠 RK3568 DDR Memory Manager
-
-**Rockchip RK3568**
-
-`C` · `Memory Management` · `Embedded Linux`
-
-Low-level memory-management focused project exploring DDR-related embedded software concepts.
-
-<a href="https://github.com/jsramesh1990/RK3568-DDR-Memory-Manager">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🐧 STM32MP157 Discovery
-
-**STM32MP1**
-
-`Linux` · `C` · `Embedded Linux`
-
-Exploring Linux-based embedded development on STM32MP1 platforms.
-
-<a href="https://github.com/jsramesh1990/STM32MP157_Discovery">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🔌 BeagleBone Black
-
-**Embedded Linux + Kernel Drivers**
-
-`Linux` · `Kernel Drivers` · `Device Tree` · `Embedded C`
-
-Hands-on exploration of Linux kernel driver development and hardware interaction.
-
-<a href="https://github.com/jsramesh1990/BeagleBone-Black">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🐠 Aquarium Tank Monitoring
-
-**ESP32 IoT Project**
-
-`ESP32` · `C++` · `IoT` · `Sensors`
-
-Embedded IoT project for monitoring aquarium conditions using an ESP32-based system.
-
-<a href="https://github.com/jsramesh1990/Aquarium_Tank_Monitoring">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🔐 SmartLock Pro
-
-**ESP32 IoT Door Lock**
-
-`ESP32` · `C++` · `IoT` · `Embedded Systems`
-
-Embedded smart-lock project focused on IoT-based access control.
-
-<a href="https://github.com/jsramesh1990/SmartLock-Pro_ESP32-IoT-Door-Lock-System">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-# 🧩 Engineering Focus
+My primary area of interest is the complete embedded Linux software stack:
 
 ```text
 Hardware
-   │
-   ▼
+   |
+   v
 Board Bring-up
-   │
-   ▼
+   |
+   v
 Bootloader / U-Boot
-   │
-   ▼
+   |
+   v
 Device Tree
-   │
-   ▼
+   |
+   v
 Linux Kernel
-   │
-   ├── Device Drivers
-   ├── GPIO / I2C / SPI / UART
-   ├── DMA / Interrupts
-   └── Memory Management
-   │
-   ▼
+   |
+   +-- Device Drivers
+   +-- Interrupts
+   +-- DMA
+   +-- Memory Management
+   +-- GPIO / I2C / SPI / UART
+   |
+   v
 BSP / Yocto
-   │
-   ▼
-Middleware / HAL
-   │
-   ├── Camera
-   ├── Multimedia
-   └── Networking
-   │
-   ▼
+   |
+   v
+HAL / Middleware
+   |
+   +-- Camera
+   +-- Multimedia
+   +-- Networking
+   |
+   v
 Applications / Edge AI
 ```
 
 ---
 
-# 📚 Currently Exploring
+# Selected Projects
 
-### 🦀 Rust for Embedded Systems
+## Qualcomm RB5 Multi-Camera Platform
 
-Exploring memory-safe systems programming and embedded Rust.
+**Technologies:** Yocto, Embedded Linux, Linux Kernel, Camera Drivers, CamX, V4L2, MIPI CSI-2, GStreamer
 
-### ⚡ Zephyr RTOS
+Embedded camera integration and BSP development involving camera sensor configuration, Linux kernel integration, camera driver bring-up, CamX pipeline integration, MIPI CSI configuration, GStreamer pipelines, and system validation.
 
-Learning modern RTOS architecture, drivers and embedded application development.
+---
 
-### 🧠 Edge AI / NPU
+## Orange Pi AI CCTV
 
-Exploring:
+**Technologies:** Edge AI, NPU, Python, Computer Vision
 
-- NPU architecture
-- Memory movement
-- Zero-copy concepts
-- AI inference pipelines
+Embedded AI project focused on real-time vision processing and hardware-accelerated inference on an edge platform.
+
+[View Repository](https://github.com/jsramesh1990/Orange_Pi_AI_CCTV)
+
+---
+
+## RK3568 DDR Memory Manager
+
+**Technologies:** Rockchip RK3568, C, Memory Management
+
+Low-level embedded project exploring DDR memory management and system-level memory concepts on the RK3568 platform.
+
+[View Repository](https://github.com/jsramesh1990/RK3568-DDR-Memory-Manager)
+
+---
+
+## STM32MP157 Discovery
+
+**Technologies:** STM32MP1, Embedded Linux, C
+
+Embedded Linux development and experimentation on the STM32MP157 platform.
+
+[View Repository](https://github.com/jsramesh1990/STM32MP157_Discovery)
+
+---
+
+## BeagleBone Black
+
+**Technologies:** Embedded Linux, Linux Kernel, Device Drivers
+
+Hands-on Linux kernel and driver development involving hardware interaction and embedded Linux concepts.
+
+[View Repository](https://github.com/jsramesh1990/BeagleBone-Black)
+
+---
+
+## Aquarium Tank Monitoring
+
+**Technologies:** ESP32, C++, IoT, Sensors
+
+ESP32-based IoT project for monitoring aquarium parameters and interacting with embedded sensors.
+
+[View Repository](https://github.com/jsramesh1990/Aquarium_Tank_Monitoring)
+
+---
+
+## SmartLock Pro
+
+**Technologies:** ESP32, C++, IoT, Embedded Systems
+
+ESP32-based smart access-control project demonstrating embedded application development and IoT integration.
+
+[View Repository](https://github.com/jsramesh1990/SmartLock-Pro_ESP32-IoT-Door-Lock-System)
+
+---
+
+# Platforms & Technologies
+
+| Category | Technologies |
+|---|---|
+| Processors | ARM, Cortex-A, Cortex-M, Qualcomm, NXP, Rockchip |
+| Operating Systems | Linux, Android, FreeRTOS, Zephyr |
+| Build Systems | Yocto, Buildroot, CMake, Make |
+| Languages | C, C++, Python, Bash, Assembly |
+| Interfaces | I2C, SPI, UART, GPIO, USB, CAN, Ethernet |
+| Networking | TCP/IP, UDP, DHCP, MAC/PHY, MDIO, RGMII, SGMII |
+| Multimedia | V4L2, MIPI CSI-2, CamX, GStreamer |
+| Debugging | GDB, JTAG, Wireshark, tcpdump, Valgrind |
+| Development | Git, Docker, GitHub Actions |
+
+---
+
+# Current Technical Focus
+
+### Embedded Linux
+
+Linux Kernel development, device drivers, Device Tree, BSP customization, boot flow, board bring-up, and system-level debugging.
+
+### Networking
+
+Ethernet connectivity, Linux networking, MAC/PHY integration, TCP/IP, packet analysis, performance testing, and network debugging.
+
+### Camera Systems
+
+Camera sensor integration, MIPI CSI-2, V4L2, camera drivers, CamX, ISP configuration, GStreamer pipelines, and system validation.
+
+### Edge AI
+
+NPU-based inference, memory management, data movement, performance optimization, and embedded computer vision.
+
+### Systems Programming
+
+C/C++, Linux internals, memory management, multithreading, synchronization, IPC, debugging, and performance analysis.
+
+---
+
+# Learning & Exploration
+
+Currently exploring:
+
+- Rust for systems and embedded development
+- Zephyr RTOS
+- Linux Kernel driver development
+- NPU and Edge AI optimization
+- Embedded networking
+- Automotive Ethernet
+- Low-level memory management
 - Performance optimization
-- Embedded computer vision
-
-### 🌐 Automotive Ethernet
-
-Exploring:
-
-`100BASE-T1` · `1000BASE-T1` · `TSN` · `AVB` · `SOME/IP` · `DoIP` · `gPTP`
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jsramesh1990&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jsramesh1990&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsramesh1990&layout=compact&hide_border=true&theme=transparent" height="165"/>
 </p>
 
 ---
 
-# 🎯 What I Like Building
+# Professional Interests
 
-```text
-Embedded Linux Systems
-        ↓
-Board Bring-up
-        ↓
-Kernel + Drivers
-        ↓
-BSP Integration
-        ↓
-Networking / Multimedia
-        ↓
-Edge AI
-        ↓
-Real-world Embedded Products
-```
+Open to opportunities involving:
 
-I particularly enjoy problems where **software, hardware, operating systems and performance all meet together.**
+- Embedded Software Engineering
+- Embedded Linux
+- Linux Kernel
+- Device Drivers
+- BSP Development
+- Board Bring-up
+- Android BSP
+- Qualcomm Platforms
+- Ethernet and Networking
+- Camera and Multimedia
+- Edge AI
+- Embedded Systems
 
 ---
 
-# 🤝 Open To
+## Connect
 
-- 🔧 Embedded Linux Projects
-- 🐧 Linux Kernel / Driver Development
-- 📦 BSP Development
-- 🚀 Board Bring-up
-- 📷 Camera / Multimedia
-- 🌐 Ethernet / Networking
-- 🤖 Edge AI
-- 🌱 Open Source
-- 💼 Embedded Software Engineering Opportunities
+**GitHub:**  
+https://github.com/jsramesh1990
+
+**LinkedIn:**  
+https://www.linkedin.com/in/sebastian-ramesh-b84911327/
 
 ---
-
-# 📫 Let's Connect
 
 <p align="center">
-
-<a href="https://github.com/jsramesh1990">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+Embedded systems — where software meets the physical world.
+</p>
