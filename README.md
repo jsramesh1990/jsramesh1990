@@ -1,10 +1,10 @@
-# ⚡ SEBASTIAN RAMESH
+#  SEBASTIAN RAMESH
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=70&lines=SEBASTIAN+RAMESH;EMBEDDED+SOFTWARE+ENGINEER;LINUX+KERNEL+%7C+BSP+%7C+DRIVERS" />
 
-### 🚀 EMBEDDED SOFTWARE ENGINEER
+###  EMBEDDED SOFTWARE ENGINEER
 
 **Embedded Linux | Linux Kernel | BSP | Device Drivers | Hardware Integration**
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-## 🧑‍💻 ABOUT THE ENGINEER
+##  ABOUT THE ENGINEER
 
 </div>
 
@@ -46,7 +46,7 @@ My engineering interests span the complete embedded software stack — from **Bo
 
 I enjoy exploring hardware internals, debugging complex system-level issues and developing efficient software for embedded platforms.
 
-### ⚡ Engineering Domains
+###  Engineering Domains
 
 | Domain | Areas of Focus |
 |:---|:---|
@@ -62,13 +62,13 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 
 <div align="center">
 
-# 🛠️ TECHNICAL ARSENAL
+#  TECHNICAL ARSENAL
 
 *Tools, technologies and platforms across the embedded ecosystem.*
 
 </div>
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -78,7 +78,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
-### 🐧 Embedded Linux & Operating Systems
+###  Embedded Linux & Operating Systems
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -91,7 +91,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 <img src="https://img.shields.io/badge/Zephyr-00A7C4?style=for-the-badge"/>
 </p>
 
-### ⚙️ Linux Kernel & Device Drivers
+###  Linux Kernel & Device Drivers
 
 <p>
 <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -106,7 +106,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 
 `GPIO` `I2C` `SPI` `UART` `USB` `V4L2` `Kernel Configuration`
 
-### 🔌 Hardware & Embedded Platforms
+###  Hardware & Embedded Platforms
 
 <p>
 <img src="https://img.shields.io/badge/Qualcomm-3253DC?style=for-the-badge"/>
@@ -119,7 +119,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 </p>
 
-### 🌐 Networking & Ethernet
+###  Networking & Ethernet
 
 <p>
 <img src="https://img.shields.io/badge/Ethernet-0078D4?style=for-the-badge"/>
@@ -134,7 +134,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 
 `MAC/PHY` `MDIO` `RGMII` `SGMII` `VLAN` `Packet Debugging`
 
-### 📷 Camera & Multimedia Engineering
+###  Camera & Multimedia Engineering
 
 <p>
 <img src="https://img.shields.io/badge/V4L2-0078D4?style=for-the-badge"/>
@@ -145,7 +145,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 <img src="https://img.shields.io/badge/Camera_Sensors-3949AB?style=for-the-badge"/>
 </p>
 
-### 🧰 Development, Build & Debugging
+###  Development, Build & Debugging
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -163,7 +163,7 @@ I enjoy exploring hardware internals, debugging complex system-level issues and 
 
 <div align="center">
 
-# 🏗️ EMBEDDED LINUX ARCHITECTURE
+#  EMBEDDED LINUX ARCHITECTURE
 
 **From silicon to application layer**
 
@@ -200,13 +200,13 @@ flowchart TB
 
 <div align="center">
 
-# 🚀 FEATURED PROJECTS
+#  FEATURED PROJECTS
 
 *Engineering ideas translated into working embedded systems.*
 
 </div>
 
-### 🔵 01 — Qualcomm RB5 Multi-Camera Platform
+###  01 — Qualcomm RB5 Multi-Camera Platform
 
 ![Qualcomm](https://img.shields.io/badge/Qualcomm_RB5-3253DC?style=flat-square)
 ![Yocto](https://img.shields.io/badge/Yocto-7B42BC?style=flat-square)
@@ -220,7 +220,7 @@ flowchart TB
 - GStreamer-based camera streaming.
 - End-to-end system debugging.
 
-### 🟣 02 — Orange Pi AI CCTV
+###  02 — Orange Pi AI CCTV
 
 ![Orange Pi](https://img.shields.io/badge/Orange_Pi-FF6600?style=flat-square)
 ![AI](https://img.shields.io/badge/Edge_AI-8E44AD?style=flat-square)
@@ -232,7 +232,7 @@ flowchart TB
 
 [🔗 VIEW SOURCE CODE](https://github.com/jsramesh1990/Orange_Pi_AI_CCTV)
 
-### 🟢 03 — RK3568 DDR Memory Manager
+###  03 — RK3568 DDR Memory Manager
 
 ![Rockchip](https://img.shields.io/badge/Rockchip-CC0000?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square)
@@ -244,7 +244,7 @@ flowchart TB
 
 [🔗 VIEW SOURCE CODE](https://github.com/jsramesh1990/RK3568-DDR-Memory-Manager)
 
-### 🟠 04 — STM32MP157 Discovery
+###  04 — STM32MP157 Discovery
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square)
@@ -277,9 +277,9 @@ flowchart TB
 
 <div align="center">
 
-# 📊 GITHUB ANALYTICS
+#  GITHUB ANALYTICS
 
-### 🏆 GitHub Profile Trophies
+###  GitHub Profile Trophies
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=jsramesh1990&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
@@ -311,7 +311,7 @@ flowchart TB
 
 ---
 
-## 🔬 CURRENT TECHNICAL EXPLORATION
+##  CURRENT TECHNICAL EXPLORATION
 
 | Technology | Exploration |
 |:---|:---|
@@ -327,7 +327,7 @@ flowchart TB
 
 <div align="center">
 
-# 🤝 LET'S CONNECT
+#  LET'S CONNECT
 
 **Interested in Embedded Linux, Kernel Development, BSP Engineering and Hardware Integration?**
 
